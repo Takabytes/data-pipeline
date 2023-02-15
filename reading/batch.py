@@ -1,20 +1,25 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
+from pyspark.sql.types import *
 from datetime import *
 from time import sleep
 
-# Initialiser la session Spark
-spark = SparkSession.builder \
-    .appName("StorageToHDFS") \
-    .getOrCreate()
+def batch(spark, fileUrl, outputDir, batchTime=10):
+    while True:
+        df = (spark
+              .read
+              .option('header', 'true')
+              .option('inferSchema', 'true')
+              .csv(fileUrl))
+        df.write.mode('overwrite').parquet(outputDir)
+        sleep(batchTime)
 
-batch_time = 10
-path = "../datas"
-while (True):
 
-    df = spark.readStream.option(header='True', inferSchema='True').csv(path)
-# Écrire les données dans HDFS
-    df.write.csv("hdfs://localhost:9000/cluster/")
-    df.show(10)
-    sleep(batch_time)
-spark.stop()
+#Test
+spark = (SparkSession
+         .builder
+         .appName('StorageToHDFS')
+         .getOrCreate())
+
+hdfs_oni = 'hdfs://localhost:9000/cluster/oni/'
+batch(spark, '../data/*identities.csv', hdfs_oni)
