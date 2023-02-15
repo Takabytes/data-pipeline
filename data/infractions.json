@@ -1,0 +1,4615 @@
+{
+  "Alice de la Poulain": {
+    "Nom": "Alice de la Poulain",
+    "Age": 69.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "1980-12-11"
+  },
+  "\u00c9milie Guillon de Duhamel": {
+    "Nom": "\u00c9milie Guillon de Duhamel",
+    "Age": 79.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1981-12-28"
+  },
+  "Gr\u00e9goire Bouvet": {
+    "Nom": "Gr\u00e9goire Bouvet",
+    "Age": 52.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1993-06-22"
+  },
+  "Victoire-Claude Lemaire": {
+    "Nom": "Victoire-Claude Lemaire",
+    "Age": 92.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "1961-07-22"
+  },
+  "Xavier de Lebreton": {
+    "Nom": "Xavier de Lebreton",
+    "Age": 49.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2007-11-25"
+  },
+  "Martin Faivre": {
+    "Nom": "Martin Faivre",
+    "Age": 75.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2018-10-28"
+  },
+  "Emmanuelle Langlois": {
+    "Nom": "Emmanuelle Langlois",
+    "Age": 85.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1961-10-11"
+  },
+  "Beno\u00eet Verdier": {
+    "Nom": "Beno\u00eet Verdier",
+    "Age": 27.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2014-11-07"
+  },
+  "Claire de la Allain": {
+    "Nom": "Claire de la Allain",
+    "Age": 65.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2020-02-04"
+  },
+  "Alix Bonneau": {
+    "Nom": "Alix Bonneau",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "1995-01-10"
+  },
+  "Corinne-Louise Valentin": {
+    "Nom": "Corinne-Louise Valentin",
+    "Age": 36.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2018-09-04"
+  },
+  "William Delannoy": {
+    "Nom": "William Delannoy",
+    "Age": 71.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2021-06-13"
+  },
+  "Gilbert Foucher": {
+    "Nom": "Gilbert Foucher",
+    "Age": 89.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2015-08-30"
+  },
+  "Margot Riou du Fernandes": {
+    "Nom": "Margot Riou du Fernandes",
+    "Age": 34.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2008-06-30"
+  },
+  "Audrey de la Schneider": {
+    "Nom": "Audrey de la Schneider",
+    "Age": 88.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1989-04-27"
+  },
+  "Pierre Mar\u00e9chal": {
+    "Nom": "Pierre Mar\u00e9chal",
+    "Age": 47.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2020-12-01"
+  },
+  "Gilbert Gimenez": {
+    "Nom": "Gilbert Gimenez",
+    "Age": 68.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1982-12-03"
+  },
+  "Benjamin Besnard": {
+    "Nom": "Benjamin Besnard",
+    "Age": 30.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2016-05-10"
+  },
+  "\u00c9milie Pages du Gautier": {
+    "Nom": "\u00c9milie Pages du Gautier",
+    "Age": 41.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2003-12-30"
+  },
+  "Camille Michaud": {
+    "Nom": "Camille Michaud",
+    "Age": 48.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1996-03-16"
+  },
+  "Christelle Lenoir": {
+    "Nom": "Christelle Lenoir",
+    "Age": 25.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2018-09-09"
+  },
+  "Th\u00e9r\u00e8se de la Chevalier": {
+    "Nom": "Th\u00e9r\u00e8se de la Chevalier",
+    "Age": 65.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la personne",
+    "Date_d_infraction": "1992-06-07"
+  },
+  "Nath de Coste": {
+    "Nom": "Nath de Coste",
+    "Age": 24.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2022-02-25"
+  },
+  "Augustin Gonzalez-Jacob": {
+    "Nom": "Augustin Gonzalez-Jacob",
+    "Age": 76.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1997-08-29"
+  },
+  "\u00c9tienne-Georges Grondin": {
+    "Nom": "\u00c9tienne-Georges Grondin",
+    "Age": 77.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1993-02-26"
+  },
+  "C\u00e9line de Pascal": {
+    "Nom": "C\u00e9line de Pascal",
+    "Age": 79.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2015-03-24"
+  },
+  "Victoire-Nicole Lopez": {
+    "Nom": "Victoire-Nicole Lopez",
+    "Age": 67.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "1999-04-08"
+  },
+  "Aim\u00e9e-Diane Robin": {
+    "Nom": "Aim\u00e9e-Diane Robin",
+    "Age": 43.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2019-08-04"
+  },
+  "Olivier Berger": {
+    "Nom": "Olivier Berger",
+    "Age": 57.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2014-03-25"
+  },
+  "Fr\u00e9d\u00e9ric Couturier": {
+    "Nom": "Fr\u00e9d\u00e9ric Couturier",
+    "Age": 88.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2011-06-28"
+  },
+  "William Courtois": {
+    "Nom": "William Courtois",
+    "Age": 45.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1998-06-14"
+  },
+  "\u00c9lodie L\u00e9vy": {
+    "Nom": "\u00c9lodie L\u00e9vy",
+    "Age": 74.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2002-08-08"
+  },
+  "Victor Devaux": {
+    "Nom": "Victor Devaux",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "1973-04-21"
+  },
+  "Sabine Imbert": {
+    "Nom": "Sabine Imbert",
+    "Age": 90.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1999-04-07"
+  },
+  "Maryse Reynaud-Michaud": {
+    "Nom": "Maryse Reynaud-Michaud",
+    "Age": 25.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2021-05-11"
+  },
+  "Laurent-Bertrand Lefort": {
+    "Nom": "Laurent-Bertrand Lefort",
+    "Age": 52.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2004-12-26"
+  },
+  "Margot Delorme": {
+    "Nom": "Margot Delorme",
+    "Age": 58.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2008-03-06"
+  },
+  "C\u00e9cile Delattre-Arnaud": {
+    "Nom": "C\u00e9cile Delattre-Arnaud",
+    "Age": 34.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2022-11-21"
+  },
+  "Margaud Lecomte": {
+    "Nom": "Margaud Lecomte",
+    "Age": 54.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1997-09-05"
+  },
+  "Mathilde Delmas-Barbier": {
+    "Nom": "Mathilde Delmas-Barbier",
+    "Age": 64.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2017-01-02"
+  },
+  "Th\u00e9odore Simon-Breton": {
+    "Nom": "Th\u00e9odore Simon-Breton",
+    "Age": 73.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2008-10-29"
+  },
+  "Benjamin Martinez-Laine": {
+    "Nom": "Benjamin Martinez-Laine",
+    "Age": 24.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "2019-06-29"
+  },
+  "Nathalie-Chantal Jacques": {
+    "Nom": "Nathalie-Chantal Jacques",
+    "Age": 88.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1985-01-26"
+  },
+  "Alphonse Dupont-Petit": {
+    "Nom": "Alphonse Dupont-Petit",
+    "Age": 22.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2022-07-07"
+  },
+  "Alphonse Le Olivier": {
+    "Nom": "Alphonse Le Olivier",
+    "Age": 91.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2003-04-18"
+  },
+  "R\u00e9my Le Michaud": {
+    "Nom": "R\u00e9my Le Michaud",
+    "Age": 35.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2020-04-09"
+  },
+  "Th\u00e9odore De Oliveira-Nicolas": {
+    "Nom": "Th\u00e9odore De Oliveira-Nicolas",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1999-08-29"
+  },
+  "C\u00e9cile Clerc": {
+    "Nom": "C\u00e9cile Clerc",
+    "Age": 85.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1965-10-27"
+  },
+  "Am\u00e9lie de la Picard": {
+    "Nom": "Am\u00e9lie de la Picard",
+    "Age": 64.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la personne",
+    "Date_d_infraction": "2008-10-18"
+  },
+  "Arthur Fabre": {
+    "Nom": "Arthur Fabre",
+    "Age": 46.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2011-01-08"
+  },
+  "Manon Gauthier": {
+    "Nom": "Manon Gauthier",
+    "Age": 65.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1999-04-29"
+  },
+  "Pierre G\u00e9rard": {
+    "Nom": "Pierre G\u00e9rard",
+    "Age": 27.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2014-09-28"
+  },
+  "Colette Weiss du Loiseau": {
+    "Nom": "Colette Weiss du Loiseau",
+    "Age": 90.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2015-02-15"
+  },
+  "Guy Diallo": {
+    "Nom": "Guy Diallo",
+    "Age": 38.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2016-07-30"
+  },
+  "Th\u00e9odore Bertin": {
+    "Nom": "Th\u00e9odore Bertin",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1975-07-04"
+  },
+  "Fran\u00e7ois Barthelemy": {
+    "Nom": "Fran\u00e7ois Barthelemy",
+    "Age": 29.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "2020-09-11"
+  },
+  "Marcelle Paris": {
+    "Nom": "Marcelle Paris",
+    "Age": 89.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2011-03-04"
+  },
+  "Brigitte Hardy": {
+    "Nom": "Brigitte Hardy",
+    "Age": 75.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2002-09-15"
+  },
+  "Roger Rocher": {
+    "Nom": "Roger Rocher",
+    "Age": 47.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1996-05-19"
+  },
+  "Michelle Rocher du Rolland": {
+    "Nom": "Michelle Rocher du Rolland",
+    "Age": 57.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1988-09-29"
+  },
+  "Christophe Laurent de la Ledoux": {
+    "Nom": "Christophe Laurent de la Ledoux",
+    "Age": 43.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2018-09-14"
+  },
+  "Gilles-Lucas Muller": {
+    "Nom": "Gilles-Lucas Muller",
+    "Age": 47.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2005-01-18"
+  },
+  "Joseph L\u00e9v\u00eaque de Gomez": {
+    "Nom": "Joseph L\u00e9v\u00eaque de Gomez",
+    "Age": 68.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "1982-09-16"
+  },
+  "Claudine Vallet": {
+    "Nom": "Claudine Vallet",
+    "Age": 75.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1999-11-21"
+  },
+  "Henriette du Mary": {
+    "Nom": "Henriette du Mary",
+    "Age": 41.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2001-11-15"
+  },
+  "Gabriel Ferreira-Michel": {
+    "Nom": "Gabriel Ferreira-Michel",
+    "Age": 21.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2020-11-17"
+  },
+  "Aim\u00e9 Mar\u00e9chal": {
+    "Nom": "Aim\u00e9 Mar\u00e9chal",
+    "Age": 24.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2019-05-10"
+  },
+  "L\u00e9on Herv\u00e9": {
+    "Nom": "L\u00e9on Herv\u00e9",
+    "Age": 39.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2008-02-23"
+  },
+  "Pauline Blanc-Barbier": {
+    "Nom": "Pauline Blanc-Barbier",
+    "Age": 52.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1990-06-09"
+  },
+  "Eug\u00e8ne Ribeiro": {
+    "Nom": "Eug\u00e8ne Ribeiro",
+    "Age": 52.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1993-07-14"
+  },
+  "Susanne de la Leli\u00e8vre": {
+    "Nom": "Susanne de la Leli\u00e8vre",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2017-11-15"
+  },
+  "Ren\u00e9 Brunet": {
+    "Nom": "Ren\u00e9 Brunet",
+    "Age": 51.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2017-09-02"
+  },
+  "Adrien Blin": {
+    "Nom": "Adrien Blin",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1957-06-12"
+  },
+  "Christine Mary": {
+    "Nom": "Christine Mary",
+    "Age": 47.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "1994-01-10"
+  },
+  "S\u00e9bastien du Guillet": {
+    "Nom": "S\u00e9bastien du Guillet",
+    "Age": 49.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2012-05-26"
+  },
+  "Doroth\u00e9e Lefebvre": {
+    "Nom": "Doroth\u00e9e Lefebvre",
+    "Age": 77.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2014-05-25"
+  },
+  "Jacqueline Guillot": {
+    "Nom": "Jacqueline Guillot",
+    "Age": 72.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1974-06-15"
+  },
+  "Roland Colin": {
+    "Nom": "Roland Colin",
+    "Age": 50.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "1992-04-14"
+  },
+  "Corinne Blanchet de Dumont": {
+    "Nom": "Corinne Blanchet de Dumont",
+    "Age": 92.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1954-09-16"
+  },
+  "Victoire Barre": {
+    "Nom": "Victoire Barre",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2000-08-19"
+  },
+  "Zacharie Guillot": {
+    "Nom": "Zacharie Guillot",
+    "Age": 51.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2019-08-24"
+  },
+  "Maurice Fontaine": {
+    "Nom": "Maurice Fontaine",
+    "Age": 66.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2018-09-14"
+  },
+  "Matthieu Toussaint": {
+    "Nom": "Matthieu Toussaint",
+    "Age": 65.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2001-03-13"
+  },
+  "Alexandre Poirier": {
+    "Nom": "Alexandre Poirier",
+    "Age": 71.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2018-10-16"
+  },
+  "Thomas Garnier": {
+    "Nom": "Thomas Garnier",
+    "Age": 23.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "2020-11-09"
+  },
+  "Daniel Vasseur du Le Gall": {
+    "Nom": "Daniel Vasseur du Le Gall",
+    "Age": 39.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2017-03-28"
+  },
+  "Lorraine de Laroche": {
+    "Nom": "Lorraine de Laroche",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1964-06-11"
+  },
+  "Augustin Herv\u00e9": {
+    "Nom": "Augustin Herv\u00e9",
+    "Age": 64.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1988-07-30"
+  },
+  "Val\u00e9rie-Anastasie Mace": {
+    "Nom": "Val\u00e9rie-Anastasie Mace",
+    "Age": 70.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2022-02-06"
+  },
+  "Bernadette Le Pinto": {
+    "Nom": "Bernadette Le Pinto",
+    "Age": 57.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la personne",
+    "Date_d_infraction": "2020-05-10"
+  },
+  "Jacqueline Merle-Jourdan": {
+    "Nom": "Jacqueline Merle-Jourdan",
+    "Age": 27.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "2022-11-02"
+  },
+  "Roland Garcia": {
+    "Nom": "Roland Garcia",
+    "Age": 25.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2019-11-28"
+  },
+  "Josette Guillet-Blin": {
+    "Nom": "Josette Guillet-Blin",
+    "Age": 72.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2005-05-17"
+  },
+  "Thierry-Augustin Morel": {
+    "Nom": "Thierry-Augustin Morel",
+    "Age": 75.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1984-10-08"
+  },
+  "Sophie L\u00e9v\u00eaque": {
+    "Nom": "Sophie L\u00e9v\u00eaque",
+    "Age": 56.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1995-03-16"
+  },
+  "Nathalie Robert": {
+    "Nom": "Nathalie Robert",
+    "Age": 88.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1993-07-02"
+  },
+  "St\u00e9phane-Xavier Vaillant": {
+    "Nom": "St\u00e9phane-Xavier Vaillant",
+    "Age": 64.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1990-12-27"
+  },
+  "Henriette Olivier": {
+    "Nom": "Henriette Olivier",
+    "Age": 88.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2018-07-29"
+  },
+  "Martine Bruneau": {
+    "Nom": "Martine Bruneau",
+    "Age": 43.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2008-09-20"
+  },
+  "Hugues-Roland Guichard": {
+    "Nom": "Hugues-Roland Guichard",
+    "Age": 65.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1994-12-05"
+  },
+  "Marianne Faivre": {
+    "Nom": "Marianne Faivre",
+    "Age": 40.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "2014-03-09"
+  },
+  "\u00c9milie Schmitt": {
+    "Nom": "\u00c9milie Schmitt",
+    "Age": 69.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "1991-10-02"
+  },
+  "Antoinette Bertrand": {
+    "Nom": "Antoinette Bertrand",
+    "Age": 73.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1971-07-02"
+  },
+  "Adrien Jacob du Dumas": {
+    "Nom": "Adrien Jacob du Dumas",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "1988-05-04"
+  },
+  "Maggie Brunet": {
+    "Nom": "Maggie Brunet",
+    "Age": 84.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "1988-07-14"
+  },
+  "Nathalie Le Goff": {
+    "Nom": "Nathalie Le Goff",
+    "Age": 85.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "1990-09-26"
+  },
+  "Paulette de Legendre": {
+    "Nom": "Paulette de Legendre",
+    "Age": 71.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2009-07-22"
+  },
+  "R\u00e9my de Blanchard": {
+    "Nom": "R\u00e9my de Blanchard",
+    "Age": 30.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2017-08-08"
+  },
+  "Jean Peltier": {
+    "Nom": "Jean Peltier",
+    "Age": 43.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2009-01-26"
+  },
+  "Patricia Chevalier": {
+    "Nom": "Patricia Chevalier",
+    "Age": 77.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2007-08-01"
+  },
+  "Fran\u00e7ois Pasquier": {
+    "Nom": "Fran\u00e7ois Pasquier",
+    "Age": 26.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2017-02-23"
+  },
+  "Danielle-Doroth\u00e9e Dupuy": {
+    "Nom": "Danielle-Doroth\u00e9e Dupuy",
+    "Age": 54.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2003-05-14"
+  },
+  "Henriette Gomes": {
+    "Nom": "Henriette Gomes",
+    "Age": 62.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "1996-03-22"
+  },
+  "Vincent Le Ledoux": {
+    "Nom": "Vincent Le Ledoux",
+    "Age": 62.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "1980-08-02"
+  },
+  "Louis Chauvin": {
+    "Nom": "Louis Chauvin",
+    "Age": 36.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2017-03-15"
+  },
+  "Th\u00e9odore-St\u00e9phane Lopes": {
+    "Nom": "Th\u00e9odore-St\u00e9phane Lopes",
+    "Age": 87.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2005-07-08"
+  },
+  "Suzanne Descamps-Descamps": {
+    "Nom": "Suzanne Descamps-Descamps",
+    "Age": 21.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "2021-09-12"
+  },
+  "Gr\u00e9goire Blondel": {
+    "Nom": "Gr\u00e9goire Blondel",
+    "Age": 27.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2016-04-06"
+  },
+  "S\u00e9bastien-\u00c9tienne Tanguy": {
+    "Nom": "S\u00e9bastien-\u00c9tienne Tanguy",
+    "Age": 64.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2013-08-03"
+  },
+  "Doroth\u00e9e Weiss de Navarro": {
+    "Nom": "Doroth\u00e9e Weiss de Navarro",
+    "Age": 38.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2013-07-30"
+  },
+  "Thibault Moreno": {
+    "Nom": "Thibault Moreno",
+    "Age": 28.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2021-02-26"
+  },
+  "Thibault Charpentier": {
+    "Nom": "Thibault Charpentier",
+    "Age": 68.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2013-10-21"
+  },
+  "\u00c9douard-Tristan Leleu": {
+    "Nom": "\u00c9douard-Tristan Leleu",
+    "Age": 37.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2011-07-19"
+  },
+  "\u00c9dith Lef\u00e8vre": {
+    "Nom": "\u00c9dith Lef\u00e8vre",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2011-08-18"
+  },
+  "Isabelle-Laure De Sousa": {
+    "Nom": "Isabelle-Laure De Sousa",
+    "Age": 22.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2022-05-10"
+  },
+  "Caroline Weiss": {
+    "Nom": "Caroline Weiss",
+    "Age": 41.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2006-11-11"
+  },
+  "Louis de la Charles": {
+    "Nom": "Louis de la Charles",
+    "Age": 74.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "1978-01-18"
+  },
+  "Ren\u00e9 Delattre": {
+    "Nom": "Ren\u00e9 Delattre",
+    "Age": 34.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2015-08-17"
+  },
+  "Andr\u00e9 \u00c9tienne": {
+    "Nom": "Andr\u00e9 \u00c9tienne",
+    "Age": 20.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "2021-02-11"
+  },
+  "Jean Becker Le Lecoq": {
+    "Nom": "Jean Becker Le Lecoq",
+    "Age": 45.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2000-04-22"
+  },
+  "Xavier-Adrien Vallet": {
+    "Nom": "Xavier-Adrien Vallet",
+    "Age": 22.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2019-07-06"
+  },
+  "Marguerite-Antoinette Morin": {
+    "Nom": "Marguerite-Antoinette Morin",
+    "Age": 91.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "2001-11-09"
+  },
+  "Sophie Boulanger": {
+    "Nom": "Sophie Boulanger",
+    "Age": 66.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1984-02-04"
+  },
+  "Charles Benard": {
+    "Nom": "Charles Benard",
+    "Age": 49.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2007-06-06"
+  },
+  "Claude Delorme de la Ramos": {
+    "Nom": "Claude Delorme de la Ramos",
+    "Age": 68.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2001-08-22"
+  },
+  "David-Olivier Delorme": {
+    "Nom": "David-Olivier Delorme",
+    "Age": 63.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1997-09-16"
+  },
+  "St\u00e9phane Herv\u00e9-Roux": {
+    "Nom": "St\u00e9phane Herv\u00e9-Roux",
+    "Age": 31.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2012-10-23"
+  },
+  "Thibaut Pruvost": {
+    "Nom": "Thibaut Pruvost",
+    "Age": 39.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "2005-03-23"
+  },
+  "Odette-Aur\u00e9lie Ribeiro": {
+    "Nom": "Odette-Aur\u00e9lie Ribeiro",
+    "Age": 24.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "2022-05-03"
+  },
+  "Josette Robert": {
+    "Nom": "Josette Robert",
+    "Age": 50.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2008-06-13"
+  },
+  "Jean Chauveau du Antoine": {
+    "Nom": "Jean Chauveau du Antoine",
+    "Age": 65.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "1976-09-09"
+  },
+  "Simone Pineau": {
+    "Nom": "Simone Pineau",
+    "Age": 71.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1973-09-11"
+  },
+  "Fr\u00e9d\u00e9rique Payet": {
+    "Nom": "Fr\u00e9d\u00e9rique Payet",
+    "Age": 47.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Commerce et transport d'armes",
+    "Date_d_infraction": "2012-01-10"
+  },
+  "Joseph de la Renaud": {
+    "Nom": "Joseph de la Renaud",
+    "Age": 88.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2002-02-09"
+  },
+  "Louise Girard": {
+    "Nom": "Louise Girard",
+    "Age": 69.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2009-11-18"
+  },
+  "Adrien Lefort": {
+    "Nom": "Adrien Lefort",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2006-01-24"
+  },
+  "Maggie Gaudin": {
+    "Nom": "Maggie Gaudin",
+    "Age": 36.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2019-10-09"
+  },
+  "Colette du Mary": {
+    "Nom": "Colette du Mary",
+    "Age": 83.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "1964-07-19"
+  },
+  "C\u00e9line-Mathilde Buisson": {
+    "Nom": "C\u00e9line-Mathilde Buisson",
+    "Age": 39.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "2021-03-07"
+  },
+  "Manon Devaux de la Jacquot": {
+    "Nom": "Manon Devaux de la Jacquot",
+    "Age": 64.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "1981-03-11"
+  },
+  "Michelle Tessier": {
+    "Nom": "Michelle Tessier",
+    "Age": 44.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "2011-10-02"
+  },
+  "Maggie-Marthe Lebreton": {
+    "Nom": "Maggie-Marthe Lebreton",
+    "Age": 32.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2018-12-16"
+  },
+  "Luce Coulon-Collin": {
+    "Nom": "Luce Coulon-Collin",
+    "Age": 79.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1990-06-02"
+  },
+  "Marine Chauvet-Potier": {
+    "Nom": "Marine Chauvet-Potier",
+    "Age": 55.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2018-04-23"
+  },
+  "Nicolas Lopez": {
+    "Nom": "Nicolas Lopez",
+    "Age": 75.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "1984-09-21"
+  },
+  "Honor\u00e9 du Laurent": {
+    "Nom": "Honor\u00e9 du Laurent",
+    "Age": 44.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2016-07-15"
+  },
+  "Caroline-Lorraine Humbert": {
+    "Nom": "Caroline-Lorraine Humbert",
+    "Age": 59.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2004-09-17"
+  },
+  "Gilles Marion": {
+    "Nom": "Gilles Marion",
+    "Age": 20.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2022-02-04"
+  },
+  "Corinne Lecomte": {
+    "Nom": "Corinne Lecomte",
+    "Age": 54.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2010-01-04"
+  },
+  "S\u00e9bastien Lema\u00eetre": {
+    "Nom": "S\u00e9bastien Lema\u00eetre",
+    "Age": 74.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "1977-12-05"
+  },
+  "Mathilde Boyer": {
+    "Nom": "Mathilde Boyer",
+    "Age": 56.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2020-04-09"
+  },
+  "Raymond Marchal de Nguyen": {
+    "Nom": "Raymond Marchal de Nguyen",
+    "Age": 30.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2020-02-07"
+  },
+  "Michelle Lebon": {
+    "Nom": "Michelle Lebon",
+    "Age": 35.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2013-12-12"
+  },
+  "Louis Weber": {
+    "Nom": "Louis Weber",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2018-07-03"
+  },
+  "Simone-Antoinette Mallet": {
+    "Nom": "Simone-Antoinette Mallet",
+    "Age": 82.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2017-03-18"
+  },
+  "Caroline Monnier": {
+    "Nom": "Caroline Monnier",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "1989-02-03"
+  },
+  "Charlotte \u00c9tienne-Evrard": {
+    "Nom": "Charlotte \u00c9tienne-Evrard",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2007-10-31"
+  },
+  "Jacques Lebrun": {
+    "Nom": "Jacques Lebrun",
+    "Age": 76.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1999-09-28"
+  },
+  "Constance Lemaire du Germain": {
+    "Nom": "Constance Lemaire du Germain",
+    "Age": 91.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1974-06-29"
+  },
+  "S\u00e9bastien Meunier": {
+    "Nom": "S\u00e9bastien Meunier",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2017-09-23"
+  },
+  "Brigitte Caron": {
+    "Nom": "Brigitte Caron",
+    "Age": 79.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1999-09-04"
+  },
+  "Vincent Evrard": {
+    "Nom": "Vincent Evrard",
+    "Age": 67.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1982-06-30"
+  },
+  "\u00c9tienne Dumont": {
+    "Nom": "\u00c9tienne Dumont",
+    "Age": 37.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2020-10-21"
+  },
+  "Charles Blondel": {
+    "Nom": "Charles Blondel",
+    "Age": 25.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-10-23"
+  },
+  "Doroth\u00e9e Jacquet-Fouquet": {
+    "Nom": "Doroth\u00e9e Jacquet-Fouquet",
+    "Age": 49.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2020-09-05"
+  },
+  "Julie Mallet-Aubert": {
+    "Nom": "Julie Mallet-Aubert",
+    "Age": 50.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1999-12-06"
+  },
+  "Isaac Bonnin": {
+    "Nom": "Isaac Bonnin",
+    "Age": 90.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2012-03-19"
+  },
+  "David Gu\u00e9rin": {
+    "Nom": "David Gu\u00e9rin",
+    "Age": 30.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "2018-11-27"
+  },
+  "Guy Dufour-Bernier": {
+    "Nom": "Guy Dufour-Bernier",
+    "Age": 69.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2021-09-15"
+  },
+  "Michelle Cl\u00e9ment": {
+    "Nom": "Michelle Cl\u00e9ment",
+    "Age": 56.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1989-04-14"
+  },
+  "Laurence Mathieu": {
+    "Nom": "Laurence Mathieu",
+    "Age": 21.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2021-04-10"
+  },
+  "Corinne Arnaud": {
+    "Nom": "Corinne Arnaud",
+    "Age": 73.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1992-07-28"
+  },
+  "L\u00e9on Martins-Briand": {
+    "Nom": "L\u00e9on Martins-Briand",
+    "Age": 52.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "1994-11-14"
+  },
+  "Gabriel Lopez": {
+    "Nom": "Gabriel Lopez",
+    "Age": 30.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "2017-08-07"
+  },
+  "Margot de Joseph": {
+    "Nom": "Margot de Joseph",
+    "Age": 42.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2003-11-17"
+  },
+  "Genevi\u00e8ve Germain-Picard": {
+    "Nom": "Genevi\u00e8ve Germain-Picard",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2005-10-20"
+  },
+  "Jeanne Garnier": {
+    "Nom": "Jeanne Garnier",
+    "Age": 39.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2009-02-25"
+  },
+  "Lucas Vaillant": {
+    "Nom": "Lucas Vaillant",
+    "Age": 83.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1978-10-22"
+  },
+  "Philippine Courtois": {
+    "Nom": "Philippine Courtois",
+    "Age": 40.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2005-04-12"
+  },
+  "Roland de la Barthelemy": {
+    "Nom": "Roland de la Barthelemy",
+    "Age": 29.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2016-01-25"
+  },
+  "Fran\u00e7oise Pottier": {
+    "Nom": "Fran\u00e7oise Pottier",
+    "Age": 80.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "1980-09-22"
+  },
+  "Audrey Dijoux": {
+    "Nom": "Audrey Dijoux",
+    "Age": 39.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2021-06-24"
+  },
+  "Margaret de la Collet": {
+    "Nom": "Margaret de la Collet",
+    "Age": 88.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1985-07-15"
+  },
+  "Michelle Philippe": {
+    "Nom": "Michelle Philippe",
+    "Age": 86.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1959-07-08"
+  },
+  "Maggie Jourdan": {
+    "Nom": "Maggie Jourdan",
+    "Age": 83.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "1973-04-19"
+  },
+  "Marguerite Gomes-Mend\u00e8s": {
+    "Nom": "Marguerite Gomes-Mend\u00e8s",
+    "Age": 43.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2005-12-21"
+  },
+  "Th\u00e9odore-Alfred Fournier": {
+    "Nom": "Th\u00e9odore-Alfred Fournier",
+    "Age": 66.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2016-04-29"
+  },
+  "Zacharie Gillet": {
+    "Nom": "Zacharie Gillet",
+    "Age": 38.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "2017-04-07"
+  },
+  "Jacqueline Mary": {
+    "Nom": "Jacqueline Mary",
+    "Age": 48.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "1999-05-11"
+  },
+  "R\u00e9my Bourgeois-Jean": {
+    "Nom": "R\u00e9my Bourgeois-Jean",
+    "Age": 60.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1999-04-26"
+  },
+  "L\u00e9on Delahaye Le Potier": {
+    "Nom": "L\u00e9on Delahaye Le Potier",
+    "Age": 38.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2004-01-03"
+  },
+  "Audrey de Lema\u00eetre": {
+    "Nom": "Audrey de Lema\u00eetre",
+    "Age": 38.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2014-12-15"
+  },
+  "Alain Lacombe": {
+    "Nom": "Alain Lacombe",
+    "Age": 62.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2002-01-10"
+  },
+  "Marguerite Seguin": {
+    "Nom": "Marguerite Seguin",
+    "Age": 77.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2018-01-19"
+  },
+  "Nicolas Hardy": {
+    "Nom": "Nicolas Hardy",
+    "Age": 20.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2021-08-10"
+  },
+  "Marie Thierry": {
+    "Nom": "Marie Thierry",
+    "Age": 81.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2013-10-12"
+  },
+  "Isaac Le Pinto": {
+    "Nom": "Isaac Le Pinto",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "2008-12-15"
+  },
+  "Olivie Moreau": {
+    "Nom": "Olivie Moreau",
+    "Age": 62.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1990-11-30"
+  },
+  "Martin Le Laporte": {
+    "Nom": "Martin Le Laporte",
+    "Age": 27.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2019-01-05"
+  },
+  "Bertrand Le Roux": {
+    "Nom": "Bertrand Le Roux",
+    "Age": 64.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2000-05-05"
+  },
+  "Nath L\u00e9ger": {
+    "Nom": "Nath L\u00e9ger",
+    "Age": 59.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1983-08-05"
+  },
+  "Denis Bodin": {
+    "Nom": "Denis Bodin",
+    "Age": 77.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1981-01-13"
+  },
+  "Gilbert G\u00e9rard": {
+    "Nom": "Gilbert G\u00e9rard",
+    "Age": 71.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2022-03-19"
+  },
+  "Olivie Guillou": {
+    "Nom": "Olivie Guillou",
+    "Age": 74.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1983-01-08"
+  },
+  "Thierry Leclercq de la Dubois": {
+    "Nom": "Thierry Leclercq de la Dubois",
+    "Age": 40.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2007-02-11"
+  },
+  "Gilbert Mallet": {
+    "Nom": "Gilbert Mallet",
+    "Age": 76.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1967-11-30"
+  },
+  "Isaac Gomes": {
+    "Nom": "Isaac Gomes",
+    "Age": 70.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2018-07-29"
+  },
+  "Fr\u00e9d\u00e9ric Rodrigues": {
+    "Nom": "Fr\u00e9d\u00e9ric Rodrigues",
+    "Age": 40.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2009-01-04"
+  },
+  "Olivie de la Le Gall": {
+    "Nom": "Olivie de la Le Gall",
+    "Age": 57.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2014-04-09"
+  },
+  "\u00c9l\u00e9onore Delmas": {
+    "Nom": "\u00c9l\u00e9onore Delmas",
+    "Age": 51.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "1998-09-16"
+  },
+  "Vincent Mathieu": {
+    "Nom": "Vincent Mathieu",
+    "Age": 21.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2020-07-28"
+  },
+  "Pierre du Fernandez": {
+    "Nom": "Pierre du Fernandez",
+    "Age": 91.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2005-01-07"
+  },
+  "Roland de la Mahe": {
+    "Nom": "Roland de la Mahe",
+    "Age": 77.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1987-04-10"
+  },
+  "Julie de la Lucas": {
+    "Nom": "Julie de la Lucas",
+    "Age": 54.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "1992-03-06"
+  },
+  "Bernard Vasseur": {
+    "Nom": "Bernard Vasseur",
+    "Age": 51.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2013-07-20"
+  },
+  "Hugues Pires": {
+    "Nom": "Hugues Pires",
+    "Age": 22.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2021-12-22"
+  },
+  "Marianne Berthelot": {
+    "Nom": "Marianne Berthelot",
+    "Age": 24.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2018-08-15"
+  },
+  "Thibaut de la Petitjean": {
+    "Nom": "Thibaut de la Petitjean",
+    "Age": 59.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1994-02-28"
+  },
+  "Virginie Couturier": {
+    "Nom": "Virginie Couturier",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2013-04-29"
+  },
+  "Jean Joseph": {
+    "Nom": "Jean Joseph",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2015-12-16"
+  },
+  "Pauline Reynaud": {
+    "Nom": "Pauline Reynaud",
+    "Age": 87.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "2004-08-21"
+  },
+  "Richard Mar\u00e9chal de Gros": {
+    "Nom": "Richard Mar\u00e9chal de Gros",
+    "Age": 88.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "1962-11-24"
+  },
+  "St\u00e9phane Lombard": {
+    "Nom": "St\u00e9phane Lombard",
+    "Age": 64.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2007-02-25"
+  },
+  "Isaac Rolland": {
+    "Nom": "Isaac Rolland",
+    "Age": 71.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "1988-06-13"
+  },
+  "Pierre-Roger Lopes": {
+    "Nom": "Pierre-Roger Lopes",
+    "Age": 54.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1994-05-03"
+  },
+  "Raymond de la Petit": {
+    "Nom": "Raymond de la Petit",
+    "Age": 69.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1983-11-26"
+  },
+  "St\u00e9phane L\u00e9vy": {
+    "Nom": "St\u00e9phane L\u00e9vy",
+    "Age": 41.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "2014-07-08"
+  },
+  "Louise Bertin": {
+    "Nom": "Louise Bertin",
+    "Age": 39.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2013-07-12"
+  },
+  "Arthur Didier": {
+    "Nom": "Arthur Didier",
+    "Age": 23.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2021-05-11"
+  },
+  "Sabine Rodrigues": {
+    "Nom": "Sabine Rodrigues",
+    "Age": 34.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2019-02-14"
+  },
+  "Emmanuel-Ren\u00e9 Coulon": {
+    "Nom": "Emmanuel-Ren\u00e9 Coulon",
+    "Age": 90.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2005-02-21"
+  },
+  "Eug\u00e8ne Michel-Martin": {
+    "Nom": "Eug\u00e8ne Michel-Martin",
+    "Age": 73.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2010-07-12"
+  },
+  "Oc\u00e9ane Boutin": {
+    "Nom": "Oc\u00e9ane Boutin",
+    "Age": 89.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2000-05-14"
+  },
+  "Timoth\u00e9e Martin": {
+    "Nom": "Timoth\u00e9e Martin",
+    "Age": 20.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2021-07-28"
+  },
+  "Lucy-Suzanne Carpentier": {
+    "Nom": "Lucy-Suzanne Carpentier",
+    "Age": 24.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2019-10-18"
+  },
+  "Yves Vincent": {
+    "Nom": "Yves Vincent",
+    "Age": 63.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "1982-02-07"
+  },
+  "Claire Gillet": {
+    "Nom": "Claire Gillet",
+    "Age": 64.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1995-03-17"
+  },
+  "Honor\u00e9 Monnier de la Hubert": {
+    "Nom": "Honor\u00e9 Monnier de la Hubert",
+    "Age": 27.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2017-12-30"
+  },
+  "\u00c9ric Adam": {
+    "Nom": "\u00c9ric Adam",
+    "Age": 35.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2012-02-19"
+  },
+  "Adrien Thomas-Thibault": {
+    "Nom": "Adrien Thomas-Thibault",
+    "Age": 20.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2022-03-04"
+  },
+  "\u00c9l\u00e9onore-H\u00e9l\u00e8ne Dubois": {
+    "Nom": "\u00c9l\u00e9onore-H\u00e9l\u00e8ne Dubois",
+    "Age": 60.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1998-12-16"
+  },
+  "Guy Allain": {
+    "Nom": "Guy Allain",
+    "Age": 30.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2022-01-11"
+  },
+  "Diane-Fran\u00e7oise Raynaud": {
+    "Nom": "Diane-Fran\u00e7oise Raynaud",
+    "Age": 27.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "2016-01-09"
+  },
+  "Odette Gilles de la Collet": {
+    "Nom": "Odette Gilles de la Collet",
+    "Age": 50.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2018-04-14"
+  },
+  "R\u00e9my Bousquet": {
+    "Nom": "R\u00e9my Bousquet",
+    "Age": 80.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2013-07-16"
+  },
+  "Isaac-\u00c9tienne Perez": {
+    "Nom": "Isaac-\u00c9tienne Perez",
+    "Age": 66.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "1985-01-21"
+  },
+  "Th\u00e9r\u00e8se-Margaux Bruneau": {
+    "Nom": "Th\u00e9r\u00e8se-Margaux Bruneau",
+    "Age": 69.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "2008-07-08"
+  },
+  "Claude Lamy-Cohen": {
+    "Nom": "Claude Lamy-Cohen",
+    "Age": 47.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "1997-10-31"
+  },
+  "Marine-Cl\u00e9mence Ferreira": {
+    "Nom": "Marine-Cl\u00e9mence Ferreira",
+    "Age": 32.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2009-08-10"
+  },
+  "Odette-Brigitte Cl\u00e9ment": {
+    "Nom": "Odette-Brigitte Cl\u00e9ment",
+    "Age": 39.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "2013-08-18"
+  },
+  "Guy Riou": {
+    "Nom": "Guy Riou",
+    "Age": 75.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1993-10-11"
+  },
+  "Maggie Costa": {
+    "Nom": "Maggie Costa",
+    "Age": 41.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2020-11-14"
+  },
+  "Pierre Jean": {
+    "Nom": "Pierre Jean",
+    "Age": 51.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2012-01-14"
+  },
+  "Jean Michaud": {
+    "Nom": "Jean Michaud",
+    "Age": 70.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2000-02-22"
+  },
+  "Vincent Raymond": {
+    "Nom": "Vincent Raymond",
+    "Age": 34.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "2018-01-28"
+  },
+  "Marthe Pruvost": {
+    "Nom": "Marthe Pruvost",
+    "Age": 61.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2000-03-14"
+  },
+  "Thierry Delattre-Simon": {
+    "Nom": "Thierry Delattre-Simon",
+    "Age": 71.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2013-12-20"
+  },
+  "Roger du Dumont": {
+    "Nom": "Roger du Dumont",
+    "Age": 76.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "1971-02-28"
+  },
+  "G\u00e9rard-Xavier Baron": {
+    "Nom": "G\u00e9rard-Xavier Baron",
+    "Age": 38.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2022-01-24"
+  },
+  "Nathalie Pages": {
+    "Nom": "Nathalie Pages",
+    "Age": 28.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "2016-01-20"
+  },
+  "Yves-Alexandre Robert": {
+    "Nom": "Yves-Alexandre Robert",
+    "Age": 56.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2012-10-18"
+  },
+  "\u00c9tienne Lombard-Imbert": {
+    "Nom": "\u00c9tienne Lombard-Imbert",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2017-01-03"
+  },
+  "Alfred Gomes": {
+    "Nom": "Alfred Gomes",
+    "Age": 77.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1979-02-03"
+  },
+  "Antoine Bourdon de Auger": {
+    "Nom": "Antoine Bourdon de Auger",
+    "Age": 83.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Commerce et transport d'armes",
+    "Date_d_infraction": "1970-09-23"
+  },
+  "Jeanne Muller": {
+    "Nom": "Jeanne Muller",
+    "Age": 44.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "2017-03-21"
+  },
+  "Martin Munoz Le Fischer": {
+    "Nom": "Martin Munoz Le Fischer",
+    "Age": 81.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1976-07-06"
+  },
+  "Augustin Hamon": {
+    "Nom": "Augustin Hamon",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1982-12-07"
+  },
+  "Beno\u00eet Camus": {
+    "Nom": "Beno\u00eet Camus",
+    "Age": 40.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2009-09-12"
+  },
+  "Jeanne Marion": {
+    "Nom": "Jeanne Marion",
+    "Age": 29.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2020-03-14"
+  },
+  "Robert Huet-Lacombe": {
+    "Nom": "Robert Huet-Lacombe",
+    "Age": 60.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1984-09-13"
+  },
+  "Astrid Joseph de Regnier": {
+    "Nom": "Astrid Joseph de Regnier",
+    "Age": 28.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2016-08-01"
+  },
+  "Raymond Rossi": {
+    "Nom": "Raymond Rossi",
+    "Age": 86.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2010-05-13"
+  },
+  "Jacqueline L\u00e9ger": {
+    "Nom": "Jacqueline L\u00e9ger",
+    "Age": 86.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1988-09-12"
+  },
+  "Virginie Le Gall": {
+    "Nom": "Virginie Le Gall",
+    "Age": 88.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2001-09-04"
+  },
+  "Fr\u00e9d\u00e9ric Jacques": {
+    "Nom": "Fr\u00e9d\u00e9ric Jacques",
+    "Age": 33.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2018-07-26"
+  },
+  "St\u00e9phane-Roland Boyer": {
+    "Nom": "St\u00e9phane-Roland Boyer",
+    "Age": 46.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2007-12-12"
+  },
+  "Victor Guillou": {
+    "Nom": "Victor Guillou",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2018-12-22"
+  },
+  "Camille Le Aubry": {
+    "Nom": "Camille Le Aubry",
+    "Age": 39.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2021-05-25"
+  },
+  "Suzanne-Jos\u00e9phine Joubert": {
+    "Nom": "Suzanne-Jos\u00e9phine Joubert",
+    "Age": 21.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2021-03-05"
+  },
+  "Vincent Vaillant": {
+    "Nom": "Vincent Vaillant",
+    "Age": 82.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2008-03-02"
+  },
+  "Bernard Gosselin Le Arnaud": {
+    "Nom": "Bernard Gosselin Le Arnaud",
+    "Age": 42.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux finances publiques",
+    "Date_d_infraction": "2013-08-11"
+  },
+  "Hugues Dufour-Lefebvre": {
+    "Nom": "Hugues Dufour-Lefebvre",
+    "Age": 85.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1956-06-19"
+  },
+  "Louise Valette": {
+    "Nom": "Louise Valette",
+    "Age": 59.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2015-12-27"
+  },
+  "Ren\u00e9e David": {
+    "Nom": "Ren\u00e9e David",
+    "Age": 70.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "1978-06-23"
+  },
+  "\u00c9lisabeth Perrin": {
+    "Nom": "\u00c9lisabeth Perrin",
+    "Age": 47.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2013-12-04"
+  },
+  "Aim\u00e9e Louis": {
+    "Nom": "Aim\u00e9e Louis",
+    "Age": 92.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1955-10-08"
+  },
+  "Gabriel de Pineau": {
+    "Nom": "Gabriel de Pineau",
+    "Age": 83.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1981-11-26"
+  },
+  "Beno\u00eet-No\u00ebl Letellier": {
+    "Nom": "Beno\u00eet-No\u00ebl Letellier",
+    "Age": 24.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2021-07-14"
+  },
+  "Pauline Richard": {
+    "Nom": "Pauline Richard",
+    "Age": 81.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1977-02-06"
+  },
+  "Vincent Leclercq": {
+    "Nom": "Vincent Leclercq",
+    "Age": 57.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1989-11-26"
+  },
+  "Timoth\u00e9e Roger": {
+    "Nom": "Timoth\u00e9e Roger",
+    "Age": 36.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2008-01-27"
+  },
+  "Charles Nicolas": {
+    "Nom": "Charles Nicolas",
+    "Age": 46.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2011-01-11"
+  },
+  "Jules Caron": {
+    "Nom": "Jules Caron",
+    "Age": 26.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2021-02-22"
+  },
+  "Capucine Fleury": {
+    "Nom": "Capucine Fleury",
+    "Age": 72.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2002-02-01"
+  },
+  "Alix Maillot-Grenier": {
+    "Nom": "Alix Maillot-Grenier",
+    "Age": 90.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2018-09-07"
+  },
+  "Marine Mathieu": {
+    "Nom": "Marine Mathieu",
+    "Age": 30.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2016-02-25"
+  },
+  "Jeanne Colas-Leblanc": {
+    "Nom": "Jeanne Colas-Leblanc",
+    "Age": 39.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2005-02-06"
+  },
+  "C\u00e9line Gomez": {
+    "Nom": "C\u00e9line Gomez",
+    "Age": 46.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2013-01-04"
+  },
+  "Caroline Peltier": {
+    "Nom": "Caroline Peltier",
+    "Age": 84.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2007-02-05"
+  },
+  "Michelle-Margaret Gay": {
+    "Nom": "Michelle-Margaret Gay",
+    "Age": 55.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2008-07-31"
+  },
+  "Thibaut Charpentier-Payet": {
+    "Nom": "Thibaut Charpentier-Payet",
+    "Age": 64.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "1994-02-04"
+  },
+  "Alexandrie Delmas": {
+    "Nom": "Alexandrie Delmas",
+    "Age": 35.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2009-10-01"
+  },
+  "Isaac Hoarau": {
+    "Nom": "Isaac Hoarau",
+    "Age": 88.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "1961-03-30"
+  },
+  "Alfred Chr\u00e9tien": {
+    "Nom": "Alfred Chr\u00e9tien",
+    "Age": 43.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2011-06-27"
+  },
+  "Aurore Caron": {
+    "Nom": "Aurore Caron",
+    "Age": 89.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "1974-10-31"
+  },
+  "Margot de Lebon": {
+    "Nom": "Margot de Lebon",
+    "Age": 38.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2006-05-31"
+  },
+  "Mich\u00e8le-Christine Fischer": {
+    "Nom": "Mich\u00e8le-Christine Fischer",
+    "Age": 39.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2011-03-29"
+  },
+  "Christophe Boyer": {
+    "Nom": "Christophe Boyer",
+    "Age": 43.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "2021-08-12"
+  },
+  "Nathalie Lecoq du Olivier": {
+    "Nom": "Nathalie Lecoq du Olivier",
+    "Age": 90.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "1977-01-15"
+  },
+  "Anne Chartier": {
+    "Nom": "Anne Chartier",
+    "Age": 55.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1993-04-01"
+  },
+  "Victoire Salmon": {
+    "Nom": "Victoire Salmon",
+    "Age": 50.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2021-08-08"
+  },
+  "Martine Ledoux": {
+    "Nom": "Martine Ledoux",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "1985-08-20"
+  },
+  "Astrid Gay de la Brunet": {
+    "Nom": "Astrid Gay de la Brunet",
+    "Age": 33.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2022-07-22"
+  },
+  "Eug\u00e8ne Poulain": {
+    "Nom": "Eug\u00e8ne Poulain",
+    "Age": 35.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2017-05-24"
+  },
+  "Marc Gilbert": {
+    "Nom": "Marc Gilbert",
+    "Age": 48.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2007-06-09"
+  },
+  "\u00c9lise Vincent": {
+    "Nom": "\u00c9lise Vincent",
+    "Age": 54.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1995-05-19"
+  },
+  "Marine Poulain": {
+    "Nom": "Marine Poulain",
+    "Age": 41.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2009-05-08"
+  },
+  "Jacques-Luc Lesage": {
+    "Nom": "Jacques-Luc Lesage",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "1973-09-03"
+  },
+  "Richard Regnier": {
+    "Nom": "Richard Regnier",
+    "Age": 67.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "1992-10-04"
+  },
+  "Alexandria Raymond": {
+    "Nom": "Alexandria Raymond",
+    "Age": 32.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2021-04-06"
+  },
+  "Margaret-Diane Lambert": {
+    "Nom": "Margaret-Diane Lambert",
+    "Age": 40.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-01-17"
+  },
+  "Beno\u00eet-St\u00e9phane Andre": {
+    "Nom": "Beno\u00eet-St\u00e9phane Andre",
+    "Age": 42.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2001-01-06"
+  },
+  "Alix Rossi-Laroche": {
+    "Nom": "Alix Rossi-Laroche",
+    "Age": 87.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "1975-05-07"
+  },
+  "Genevi\u00e8ve Grondin": {
+    "Nom": "Genevi\u00e8ve Grondin",
+    "Age": 42.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2022-08-31"
+  },
+  "Victor-Tristan L\u00e9ger": {
+    "Nom": "Victor-Tristan L\u00e9ger",
+    "Age": 26.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2022-01-26"
+  },
+  "Fr\u00e9d\u00e9ric Hamon": {
+    "Nom": "Fr\u00e9d\u00e9ric Hamon",
+    "Age": 36.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-01-01"
+  },
+  "Matthieu Thibault de la Didier": {
+    "Nom": "Matthieu Thibault de la Didier",
+    "Age": 68.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "2020-05-02"
+  },
+  "Philippe Deschamps": {
+    "Nom": "Philippe Deschamps",
+    "Age": 72.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2014-03-23"
+  },
+  "Fran\u00e7ois G\u00e9rard": {
+    "Nom": "Fran\u00e7ois G\u00e9rard",
+    "Age": 63.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "1978-05-31"
+  },
+  "\u00c9lisabeth du Denis": {
+    "Nom": "\u00c9lisabeth du Denis",
+    "Age": 38.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2019-12-30"
+  },
+  "Louis Pichon": {
+    "Nom": "Louis Pichon",
+    "Age": 88.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1973-07-15"
+  },
+  "Matthieu Aubry-Rossi": {
+    "Nom": "Matthieu Aubry-Rossi",
+    "Age": 86.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1992-08-02"
+  },
+  "Jacques-Antoine Gros": {
+    "Nom": "Jacques-Antoine Gros",
+    "Age": 32.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2011-12-22"
+  },
+  "Ren\u00e9 Da Costa": {
+    "Nom": "Ren\u00e9 Da Costa",
+    "Age": 49.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1998-11-09"
+  },
+  "Nathalie Peron": {
+    "Nom": "Nathalie Peron",
+    "Age": 49.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2003-03-15"
+  },
+  "Jos\u00e9phine Weber du Bonnin": {
+    "Nom": "Jos\u00e9phine Weber du Bonnin",
+    "Age": 91.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2011-11-27"
+  },
+  "Margaux Rey": {
+    "Nom": "Margaux Rey",
+    "Age": 34.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2008-07-02"
+  },
+  "Denise Barbe": {
+    "Nom": "Denise Barbe",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1991-12-14"
+  },
+  "Laure Philippe": {
+    "Nom": "Laure Philippe",
+    "Age": 35.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2010-10-26"
+  },
+  "Zo\u00e9 Renaud de Boutin": {
+    "Nom": "Zo\u00e9 Renaud de Boutin",
+    "Age": 32.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2016-03-02"
+  },
+  "Hortense Lebreton de Grenier": {
+    "Nom": "Hortense Lebreton de Grenier",
+    "Age": 57.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2006-04-28"
+  },
+  "Laurent Bonnin de la Durand": {
+    "Nom": "Laurent Bonnin de la Durand",
+    "Age": 91.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "1984-09-15"
+  },
+  "Juliette Evrard Le Giraud": {
+    "Nom": "Juliette Evrard Le Giraud",
+    "Age": 23.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2018-01-18"
+  },
+  "Gabriel Humbert": {
+    "Nom": "Gabriel Humbert",
+    "Age": 79.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1994-10-24"
+  },
+  "Louis Collet-Bouvet": {
+    "Nom": "Louis Collet-Bouvet",
+    "Age": 28.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2020-08-23"
+  },
+  "Raymond Parent du Blanchard": {
+    "Nom": "Raymond Parent du Blanchard",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2015-04-11"
+  },
+  "Luce Letellier": {
+    "Nom": "Luce Letellier",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "1998-03-22"
+  },
+  "Philippine-\u00c9dith Weiss": {
+    "Nom": "Philippine-\u00c9dith Weiss",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1991-12-22"
+  },
+  "Jos\u00e9phine-V\u00e9ronique Labb\u00e9": {
+    "Nom": "Jos\u00e9phine-V\u00e9ronique Labb\u00e9",
+    "Age": 91.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "1953-06-03"
+  },
+  "Marie Picard": {
+    "Nom": "Marie Picard",
+    "Age": 21.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "2020-05-09"
+  },
+  "C\u00e9cile Dupr\u00e9": {
+    "Nom": "C\u00e9cile Dupr\u00e9",
+    "Age": 78.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2018-05-18"
+  },
+  "\u00c9tienne Jourdan": {
+    "Nom": "\u00c9tienne Jourdan",
+    "Age": 90.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "1965-11-18"
+  },
+  "Paulette Garnier": {
+    "Nom": "Paulette Garnier",
+    "Age": 37.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-09-13"
+  },
+  "L\u00e9on Paris": {
+    "Nom": "L\u00e9on Paris",
+    "Age": 38.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "2003-06-15"
+  },
+  "Constance Laine": {
+    "Nom": "Constance Laine",
+    "Age": 36.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2012-09-05"
+  },
+  "Bernard Guilbert": {
+    "Nom": "Bernard Guilbert",
+    "Age": 42.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2020-07-27"
+  },
+  "Hugues Le Gall-Guyot": {
+    "Nom": "Hugues Le Gall-Guyot",
+    "Age": 91.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1959-06-25"
+  },
+  "Genevi\u00e8ve Daniel": {
+    "Nom": "Genevi\u00e8ve Daniel",
+    "Age": 69.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1974-10-05"
+  },
+  "Beno\u00eet Mercier": {
+    "Nom": "Beno\u00eet Mercier",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1999-03-09"
+  },
+  "Thibault Gosselin": {
+    "Nom": "Thibault Gosselin",
+    "Age": 42.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2010-12-28"
+  },
+  "Alphonse Leclercq-Rousseau": {
+    "Nom": "Alphonse Leclercq-Rousseau",
+    "Age": 22.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2021-08-30"
+  },
+  "Margaud Pires": {
+    "Nom": "Margaud Pires",
+    "Age": 57.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2000-07-21"
+  },
+  "Margot Bonnet": {
+    "Nom": "Margot Bonnet",
+    "Age": 62.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1980-10-30"
+  },
+  "Gabriel Pichon": {
+    "Nom": "Gabriel Pichon",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2009-01-28"
+  },
+  "In\u00e8s Toussaint": {
+    "Nom": "In\u00e8s Toussaint",
+    "Age": 33.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2009-05-09"
+  },
+  "Audrey Louis": {
+    "Nom": "Audrey Louis",
+    "Age": 52.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2000-01-11"
+  },
+  "Marie Le Henry": {
+    "Nom": "Marie Le Henry",
+    "Age": 30.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2014-12-14"
+  },
+  "Christine-Constance Gauthier": {
+    "Nom": "Christine-Constance Gauthier",
+    "Age": 22.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2020-07-08"
+  },
+  "Cl\u00e9mence de la Marchand": {
+    "Nom": "Cl\u00e9mence de la Marchand",
+    "Age": 23.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2018-01-11"
+  },
+  "Zo\u00e9 Paris-Lacroix": {
+    "Nom": "Zo\u00e9 Paris-Lacroix",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "1991-05-20"
+  },
+  "Martine Wagner de la B\u00e8gue": {
+    "Nom": "Martine Wagner de la B\u00e8gue",
+    "Age": 63.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2008-02-18"
+  },
+  "Dominique Laporte": {
+    "Nom": "Dominique Laporte",
+    "Age": 39.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2006-12-22"
+  },
+  "Christelle de la Humbert": {
+    "Nom": "Christelle de la Humbert",
+    "Age": 87.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1958-12-12"
+  },
+  "Martin Vidal": {
+    "Nom": "Martin Vidal",
+    "Age": 59.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2002-01-29"
+  },
+  "Alex-Danielle Gallet": {
+    "Nom": "Alex-Danielle Gallet",
+    "Age": 23.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2018-11-30"
+  },
+  "Aurore Guyon": {
+    "Nom": "Aurore Guyon",
+    "Age": 24.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "2018-11-08"
+  },
+  "Emmanuel Thibault": {
+    "Nom": "Emmanuel Thibault",
+    "Age": 28.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2020-04-09"
+  },
+  "Roland Perret du Pineau": {
+    "Nom": "Roland Perret du Pineau",
+    "Age": 51.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Escroqueries - abus de confiance",
+    "Date_d_infraction": "1994-10-13"
+  },
+  "\u00c9ric Weber": {
+    "Nom": "\u00c9ric Weber",
+    "Age": 60.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2015-05-19"
+  },
+  "Margaux Colas": {
+    "Nom": "Margaux Colas",
+    "Age": 44.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2009-04-20"
+  },
+  "Georges Faivre": {
+    "Nom": "Georges Faivre",
+    "Age": 31.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2014-03-14"
+  },
+  "Xavier Dufour": {
+    "Nom": "Xavier Dufour",
+    "Age": 73.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1982-05-26"
+  },
+  "Thierry Klein": {
+    "Nom": "Thierry Klein",
+    "Age": 51.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2020-12-17"
+  },
+  "Jacqueline Thierry-Lamy": {
+    "Nom": "Jacqueline Thierry-Lamy",
+    "Age": 33.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "2012-12-18"
+  },
+  "Andr\u00e9 Pottier": {
+    "Nom": "Andr\u00e9 Pottier",
+    "Age": 56.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2009-04-07"
+  },
+  "Benjamin de la Perez": {
+    "Nom": "Benjamin de la Perez",
+    "Age": 22.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2022-09-19"
+  },
+  "Th\u00e9odore Raymond": {
+    "Nom": "Th\u00e9odore Raymond",
+    "Age": 20.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2021-06-15"
+  },
+  "Antoinette Morvan-Guyot": {
+    "Nom": "Antoinette Morvan-Guyot",
+    "Age": 76.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1966-06-04"
+  },
+  "Benjamin Evrard-Marty": {
+    "Nom": "Benjamin Evrard-Marty",
+    "Age": 67.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1996-01-14"
+  },
+  "S\u00e9bastien Poulain": {
+    "Nom": "S\u00e9bastien Poulain",
+    "Age": 20.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2021-02-08"
+  },
+  "Guillaume Bonnet du Lemonnier": {
+    "Nom": "Guillaume Bonnet du Lemonnier",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux finances publiques",
+    "Date_d_infraction": "2000-01-28"
+  },
+  "Julie Laurent": {
+    "Nom": "Julie Laurent",
+    "Age": 38.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2019-03-29"
+  },
+  "Simone du Joubert": {
+    "Nom": "Simone du Joubert",
+    "Age": 25.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2017-07-18"
+  },
+  "Adrienne Tessier du Olivier": {
+    "Nom": "Adrienne Tessier du Olivier",
+    "Age": 92.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1960-06-21"
+  },
+  "Julie Guillaume": {
+    "Nom": "Julie Guillaume",
+    "Age": 76.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1986-03-04"
+  },
+  "Marc de la Dias": {
+    "Nom": "Marc de la Dias",
+    "Age": 73.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2017-07-21"
+  },
+  "S\u00e9bastien Vall\u00e9e": {
+    "Nom": "S\u00e9bastien Vall\u00e9e",
+    "Age": 63.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2012-01-09"
+  },
+  "Fran\u00e7ois du Godard": {
+    "Nom": "Fran\u00e7ois du Godard",
+    "Age": 53.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux finances publiques",
+    "Date_d_infraction": "2021-02-19"
+  },
+  "Laurence Ollivier": {
+    "Nom": "Laurence Ollivier",
+    "Age": 36.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2020-12-23"
+  },
+  "Virginie-Jos\u00e9phine Brun": {
+    "Nom": "Virginie-Jos\u00e9phine Brun",
+    "Age": 80.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1973-09-09"
+  },
+  "Lucas du Godard": {
+    "Nom": "Lucas du Godard",
+    "Age": 27.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2017-07-27"
+  },
+  "Isaac du Millet": {
+    "Nom": "Isaac du Millet",
+    "Age": 79.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "1998-05-17"
+  },
+  "Aim\u00e9 Devaux": {
+    "Nom": "Aim\u00e9 Devaux",
+    "Age": 61.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2009-11-03"
+  },
+  "L\u00e9on Lecoq": {
+    "Nom": "L\u00e9on Lecoq",
+    "Age": 47.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-12-15"
+  },
+  "Michelle Valette": {
+    "Nom": "Michelle Valette",
+    "Age": 39.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2003-07-02"
+  },
+  "\u00c9lodie Maillard": {
+    "Nom": "\u00c9lodie Maillard",
+    "Age": 67.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la personne",
+    "Date_d_infraction": "1988-12-13"
+  },
+  "Jeanne-Claudine Blanchet": {
+    "Nom": "Jeanne-Claudine Blanchet",
+    "Age": 86.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "1988-10-23"
+  },
+  "Christophe Benoit": {
+    "Nom": "Christophe Benoit",
+    "Age": 49.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2009-06-18"
+  },
+  "Fran\u00e7ois Michel-Legros": {
+    "Nom": "Fran\u00e7ois Michel-Legros",
+    "Age": 42.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2003-07-05"
+  },
+  "Xavier Leblanc-Ferreira": {
+    "Nom": "Xavier Leblanc-Ferreira",
+    "Age": 44.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1997-01-20"
+  },
+  "\u00c9tienne Roche": {
+    "Nom": "\u00c9tienne Roche",
+    "Age": 91.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "1983-01-18"
+  },
+  "Emmanuel Bousquet": {
+    "Nom": "Emmanuel Bousquet",
+    "Age": 86.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1997-03-06"
+  },
+  "David du Blondel": {
+    "Nom": "David du Blondel",
+    "Age": 38.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2005-03-19"
+  },
+  "Guy Lef\u00e8vre": {
+    "Nom": "Guy Lef\u00e8vre",
+    "Age": 43.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1999-09-12"
+  },
+  "V\u00e9ronique Hoarau": {
+    "Nom": "V\u00e9ronique Hoarau",
+    "Age": 70.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2006-12-07"
+  },
+  "Chantal Gallet-Dumont": {
+    "Nom": "Chantal Gallet-Dumont",
+    "Age": 43.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2002-11-11"
+  },
+  "Constance Laroche": {
+    "Nom": "Constance Laroche",
+    "Age": 83.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1971-01-28"
+  },
+  "J\u00e9r\u00f4me Diaz": {
+    "Nom": "J\u00e9r\u00f4me Diaz",
+    "Age": 56.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "1992-12-13"
+  },
+  "Alphonse Ollivier": {
+    "Nom": "Alphonse Ollivier",
+    "Age": 52.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2011-08-25"
+  },
+  "Roger Guillaume": {
+    "Nom": "Roger Guillaume",
+    "Age": 23.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2018-10-25"
+  },
+  "Nathalie Weber de Pr\u00e9vost": {
+    "Nom": "Nathalie Weber de Pr\u00e9vost",
+    "Age": 21.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "2022-12-08"
+  },
+  "G\u00e9rard Benard-Adam": {
+    "Nom": "G\u00e9rard Benard-Adam",
+    "Age": 37.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2017-03-19"
+  },
+  "Yves Guillou-Pichon": {
+    "Nom": "Yves Guillou-Pichon",
+    "Age": 37.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2009-10-18"
+  },
+  "Isaac Lopez": {
+    "Nom": "Isaac Lopez",
+    "Age": 25.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2017-03-31"
+  },
+  "Jules Rocher": {
+    "Nom": "Jules Rocher",
+    "Age": 53.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2014-08-27"
+  },
+  "C\u00e9cile Dupr\u00e9 de la Mary": {
+    "Nom": "C\u00e9cile Dupr\u00e9 de la Mary",
+    "Age": 87.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2018-09-12"
+  },
+  "Jacqueline L\u00e9v\u00eaque": {
+    "Nom": "Jacqueline L\u00e9v\u00eaque",
+    "Age": 55.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "2007-05-08"
+  },
+  "\u00c9lisabeth Pineau": {
+    "Nom": "\u00c9lisabeth Pineau",
+    "Age": 66.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2004-02-18"
+  },
+  "Lorraine-Margaux Duval": {
+    "Nom": "Lorraine-Margaux Duval",
+    "Age": 92.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2006-10-08"
+  },
+  "C\u00e9cile Gauthier": {
+    "Nom": "C\u00e9cile Gauthier",
+    "Age": 73.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2006-07-17"
+  },
+  "Camille Hoarau": {
+    "Nom": "Camille Hoarau",
+    "Age": 56.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2003-10-07"
+  },
+  "S\u00e9bastien-Arthur Masse": {
+    "Nom": "S\u00e9bastien-Arthur Masse",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2013-10-03"
+  },
+  "R\u00e9my de la Roux": {
+    "Nom": "R\u00e9my de la Roux",
+    "Age": 55.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2020-03-18"
+  },
+  "Nath Bruneau": {
+    "Nom": "Nath Bruneau",
+    "Age": 47.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2009-09-07"
+  },
+  "Valentine Perrin du Bertin": {
+    "Nom": "Valentine Perrin du Bertin",
+    "Age": 56.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2002-03-14"
+  },
+  "No\u00e9mi Letellier": {
+    "Nom": "No\u00e9mi Letellier",
+    "Age": 38.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2017-01-27"
+  },
+  "Thierry Vall\u00e9e-Boucher": {
+    "Nom": "Thierry Vall\u00e9e-Boucher",
+    "Age": 25.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "2016-01-02"
+  },
+  "R\u00e9my Dufour": {
+    "Nom": "R\u00e9my Dufour",
+    "Age": 90.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2003-01-05"
+  },
+  "Bertrand Charles": {
+    "Nom": "Bertrand Charles",
+    "Age": 38.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "2020-05-12"
+  },
+  "Zacharie Menard": {
+    "Nom": "Zacharie Menard",
+    "Age": 42.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2002-12-07"
+  },
+  "Arnaude Allain": {
+    "Nom": "Arnaude Allain",
+    "Age": 44.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2002-11-04"
+  },
+  "Guillaume Gay du Morvan": {
+    "Nom": "Guillaume Gay du Morvan",
+    "Age": 20.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2022-06-04"
+  },
+  "P\u00e9n\u00e9lope Brunet": {
+    "Nom": "P\u00e9n\u00e9lope Brunet",
+    "Age": 44.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2003-10-21"
+  },
+  "Virginie Munoz-Le Goff": {
+    "Nom": "Virginie Munoz-Le Goff",
+    "Age": 74.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-02-06"
+  },
+  "Xavier Schmitt": {
+    "Nom": "Xavier Schmitt",
+    "Age": 77.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2009-01-10"
+  },
+  "Ad\u00e8le Joseph": {
+    "Nom": "Ad\u00e8le Joseph",
+    "Age": 58.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2013-04-07"
+  },
+  "Jeannine Dumas": {
+    "Nom": "Jeannine Dumas",
+    "Age": 83.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1998-05-10"
+  },
+  "R\u00e9my Roy": {
+    "Nom": "R\u00e9my Roy",
+    "Age": 84.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1958-02-16"
+  },
+  "Pierre Reynaud": {
+    "Nom": "Pierre Reynaud",
+    "Age": 31.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2017-08-27"
+  },
+  "Robert Lamy-Clerc": {
+    "Nom": "Robert Lamy-Clerc",
+    "Age": 22.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2021-07-01"
+  },
+  "Isaac Guillon": {
+    "Nom": "Isaac Guillon",
+    "Age": 20.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "2022-05-27"
+  },
+  "Bernard Hubert de la Maury": {
+    "Nom": "Bernard Hubert de la Maury",
+    "Age": 64.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1985-12-03"
+  },
+  "Marcelle Charrier": {
+    "Nom": "Marcelle Charrier",
+    "Age": 44.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2008-03-08"
+  },
+  "No\u00e9mi de la Didier": {
+    "Nom": "No\u00e9mi de la Didier",
+    "Age": 80.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "1962-04-06"
+  },
+  "Roger Guillou-Fournier": {
+    "Nom": "Roger Guillou-Fournier",
+    "Age": 60.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "1982-08-05"
+  },
+  "Eug\u00e8ne Boulay": {
+    "Nom": "Eug\u00e8ne Boulay",
+    "Age": 23.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2020-12-16"
+  },
+  "Paulette Raymond": {
+    "Nom": "Paulette Raymond",
+    "Age": 72.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1995-10-15"
+  },
+  "Aim\u00e9 Antoine": {
+    "Nom": "Aim\u00e9 Antoine",
+    "Age": 44.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2006-10-20"
+  },
+  "Bernard Tanguy": {
+    "Nom": "Bernard Tanguy",
+    "Age": 87.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1980-07-10"
+  },
+  "C\u00e9line Hoarau": {
+    "Nom": "C\u00e9line Hoarau",
+    "Age": 87.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2010-07-09"
+  },
+  "Roger Baron-Roy": {
+    "Nom": "Roger Baron-Roy",
+    "Age": 80.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1974-11-11"
+  },
+  "Richard Vidal-Gilbert": {
+    "Nom": "Richard Vidal-Gilbert",
+    "Age": 86.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2017-09-17"
+  },
+  "David Diallo": {
+    "Nom": "David Diallo",
+    "Age": 41.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2014-10-14"
+  },
+  "Claudine Dubois": {
+    "Nom": "Claudine Dubois",
+    "Age": 20.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2021-04-29"
+  },
+  "Charles Rivi\u00e8re de Barbe": {
+    "Nom": "Charles Rivi\u00e8re de Barbe",
+    "Age": 79.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1968-08-20"
+  },
+  "Roland Leleu Le Fabre": {
+    "Nom": "Roland Leleu Le Fabre",
+    "Age": 55.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2021-12-24"
+  },
+  "Matthieu Vallet": {
+    "Nom": "Matthieu Vallet",
+    "Age": 58.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1997-02-28"
+  },
+  "Michelle Menard": {
+    "Nom": "Michelle Menard",
+    "Age": 89.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1977-09-28"
+  },
+  "Gabriel Pottier": {
+    "Nom": "Gabriel Pottier",
+    "Age": 77.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "2004-07-01"
+  },
+  "Ad\u00e9la\u00efde-Sophie Leclercq": {
+    "Nom": "Ad\u00e9la\u00efde-Sophie Leclercq",
+    "Age": 86.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1968-02-15"
+  },
+  "Margot Renaud": {
+    "Nom": "Margot Renaud",
+    "Age": 65.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2018-10-14"
+  },
+  "Fr\u00e9d\u00e9rique Maury": {
+    "Nom": "Fr\u00e9d\u00e9rique Maury",
+    "Age": 41.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2018-08-11"
+  },
+  "Roland Sauvage": {
+    "Nom": "Roland Sauvage",
+    "Age": 69.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2020-06-18"
+  },
+  "\u00c9douard Costa": {
+    "Nom": "\u00c9douard Costa",
+    "Age": 62.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2003-10-31"
+  },
+  "Oc\u00e9ane Reynaud": {
+    "Nom": "Oc\u00e9ane Reynaud",
+    "Age": 81.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2011-02-10"
+  },
+  "Bernadette Fabre": {
+    "Nom": "Bernadette Fabre",
+    "Age": 57.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2021-11-20"
+  },
+  "Marguerite de Dumont": {
+    "Nom": "Marguerite de Dumont",
+    "Age": 64.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2020-02-13"
+  },
+  "Emmanuel Lecomte": {
+    "Nom": "Emmanuel Lecomte",
+    "Age": 67.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1984-07-07"
+  },
+  "Alfred Lambert": {
+    "Nom": "Alfred Lambert",
+    "Age": 56.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2020-09-25"
+  },
+  "Thibaut du Jacob": {
+    "Nom": "Thibaut du Jacob",
+    "Age": 91.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1983-06-20"
+  },
+  "Adrienne Thomas-Becker": {
+    "Nom": "Adrienne Thomas-Becker",
+    "Age": 23.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2018-09-26"
+  },
+  "Patricia Garnier-Dubois": {
+    "Nom": "Patricia Garnier-Dubois",
+    "Age": 92.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1984-04-24"
+  },
+  "Xavier Nicolas-David": {
+    "Nom": "Xavier Nicolas-David",
+    "Age": 75.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "1978-07-03"
+  },
+  "S\u00e9bastien de la Brunet": {
+    "Nom": "S\u00e9bastien de la Brunet",
+    "Age": 65.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2017-03-01"
+  },
+  "Madeleine Legrand": {
+    "Nom": "Madeleine Legrand",
+    "Age": 33.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2018-08-05"
+  },
+  "Camille Ferrand": {
+    "Nom": "Camille Ferrand",
+    "Age": 22.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2021-07-06"
+  },
+  "Diane Royer de la Boulay": {
+    "Nom": "Diane Royer de la Boulay",
+    "Age": 27.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2020-07-06"
+  },
+  "Nicolas de la Olivier": {
+    "Nom": "Nicolas de la Olivier",
+    "Age": 26.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2015-12-10"
+  },
+  "Marcelle Samson de la Vaillant": {
+    "Nom": "Marcelle Samson de la Vaillant",
+    "Age": 72.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2004-02-12"
+  },
+  "Nicole Lacroix": {
+    "Nom": "Nicole Lacroix",
+    "Age": 32.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2017-03-21"
+  },
+  "Roger Caron Le Neveu": {
+    "Nom": "Roger Caron Le Neveu",
+    "Age": 57.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1991-08-12"
+  },
+  "Fr\u00e9d\u00e9rique Le Goff de la Blanchard": {
+    "Nom": "Fr\u00e9d\u00e9rique Le Goff de la Blanchard",
+    "Age": 75.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "1976-05-21"
+  },
+  "Fr\u00e9d\u00e9ric Joly": {
+    "Nom": "Fr\u00e9d\u00e9ric Joly",
+    "Age": 79.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "2008-08-26"
+  },
+  "William Lebrun": {
+    "Nom": "William Lebrun",
+    "Age": 49.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1993-06-26"
+  },
+  "Vincent Marie": {
+    "Nom": "Vincent Marie",
+    "Age": 46.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la personne",
+    "Date_d_infraction": "1998-10-30"
+  },
+  "Charlotte Pichon": {
+    "Nom": "Charlotte Pichon",
+    "Age": 32.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2009-10-06"
+  },
+  "Th\u00e9r\u00e8se Delahaye de Nguyen": {
+    "Nom": "Th\u00e9r\u00e8se Delahaye de Nguyen",
+    "Age": 78.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "1996-11-13"
+  },
+  "Ad\u00e9la\u00efde Joly": {
+    "Nom": "Ad\u00e9la\u00efde Joly",
+    "Age": 30.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2020-08-17"
+  },
+  "Sophie-Nicole Lucas": {
+    "Nom": "Sophie-Nicole Lucas",
+    "Age": 37.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2004-09-15"
+  },
+  "Victor Becker": {
+    "Nom": "Victor Becker",
+    "Age": 73.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Commerce et transport d'armes",
+    "Date_d_infraction": "1983-12-05"
+  },
+  "Auguste-Yves Pichon": {
+    "Nom": "Auguste-Yves Pichon",
+    "Age": 81.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "1965-07-02"
+  },
+  "Michelle Verdier": {
+    "Nom": "Michelle Verdier",
+    "Age": 80.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2019-07-17"
+  },
+  "Louis Lopez": {
+    "Nom": "Louis Lopez",
+    "Age": 23.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2018-11-20"
+  },
+  "Olivier Arnaud-Chr\u00e9tien": {
+    "Nom": "Olivier Arnaud-Chr\u00e9tien",
+    "Age": 51.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2010-03-11"
+  },
+  "Victor Jacquot-Hoarau": {
+    "Nom": "Victor Jacquot-Hoarau",
+    "Age": 52.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2020-03-01"
+  },
+  "Am\u00e9lie Gros-Riou": {
+    "Nom": "Am\u00e9lie Gros-Riou",
+    "Age": 33.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2013-09-28"
+  },
+  "Hugues Rousset": {
+    "Nom": "Hugues Rousset",
+    "Age": 28.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2018-11-02"
+  },
+  "Anastasie Le Morel": {
+    "Nom": "Anastasie Le Morel",
+    "Age": 59.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "1991-08-20"
+  },
+  "Monique Alves-Pires": {
+    "Nom": "Monique Alves-Pires",
+    "Age": 40.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2005-09-11"
+  },
+  "Bertrand Perrin": {
+    "Nom": "Bertrand Perrin",
+    "Age": 74.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1997-04-21"
+  },
+  "Marcel-Xavier Colin": {
+    "Nom": "Marcel-Xavier Colin",
+    "Age": 87.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2019-07-16"
+  },
+  "Fr\u00e9d\u00e9rique de Louis": {
+    "Nom": "Fr\u00e9d\u00e9rique de Louis",
+    "Age": 21.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2020-02-09"
+  },
+  "Th\u00e9ophile Fontaine": {
+    "Nom": "Th\u00e9ophile Fontaine",
+    "Age": 59.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2006-10-05"
+  },
+  "P\u00e9n\u00e9lope Dupuis": {
+    "Nom": "P\u00e9n\u00e9lope Dupuis",
+    "Age": 56.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2015-04-10"
+  },
+  "C\u00e9line Le Lecoq": {
+    "Nom": "C\u00e9line Le Lecoq",
+    "Age": 39.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2012-05-10"
+  },
+  "Simone de Loiseau": {
+    "Nom": "Simone de Loiseau",
+    "Age": 23.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2020-08-22"
+  },
+  "Lucas de Gilles": {
+    "Nom": "Lucas de Gilles",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1957-10-24"
+  },
+  "Lucas Lemaire de la Bouchet": {
+    "Nom": "Lucas Lemaire de la Bouchet",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2017-09-02"
+  },
+  "P\u00e9n\u00e9lope Ollivier": {
+    "Nom": "P\u00e9n\u00e9lope Ollivier",
+    "Age": 89.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "1962-07-21"
+  },
+  "Marie Da Silva": {
+    "Nom": "Marie Da Silva",
+    "Age": 28.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2021-07-12"
+  },
+  "Franck de Boutin": {
+    "Nom": "Franck de Boutin",
+    "Age": 62.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1983-08-08"
+  },
+  "C\u00e9cile Germain": {
+    "Nom": "C\u00e9cile Germain",
+    "Age": 31.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2020-12-21"
+  },
+  "Richard Adam du Vallet": {
+    "Nom": "Richard Adam du Vallet",
+    "Age": 89.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur la concurrence, les prix",
+    "Date_d_infraction": "2008-04-06"
+  },
+  "Val\u00e9rie du Turpin": {
+    "Nom": "Val\u00e9rie du Turpin",
+    "Age": 49.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2011-01-15"
+  },
+  "Catherine de la Laporte": {
+    "Nom": "Catherine de la Laporte",
+    "Age": 59.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "1991-10-06"
+  },
+  "Alexandre Marchand": {
+    "Nom": "Alexandre Marchand",
+    "Age": 21.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2021-11-07"
+  },
+  "Am\u00e9lie Blondel": {
+    "Nom": "Am\u00e9lie Blondel",
+    "Age": 89.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2022-02-16"
+  },
+  "Andr\u00e9 Brunet-Delaunay": {
+    "Nom": "Andr\u00e9 Brunet-Delaunay",
+    "Age": 73.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "1993-07-09"
+  },
+  "Alexandrie de Picard": {
+    "Nom": "Alexandrie de Picard",
+    "Age": 71.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2010-01-27"
+  },
+  "David de la Potier": {
+    "Nom": "David de la Potier",
+    "Age": 48.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2011-12-28"
+  },
+  "Vincent Dupr\u00e9-Marchal": {
+    "Nom": "Vincent Dupr\u00e9-Marchal",
+    "Age": 37.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2018-02-27"
+  },
+  "Laure Berger de Lamy": {
+    "Nom": "Laure Berger de Lamy",
+    "Age": 53.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "1994-11-05"
+  },
+  "Gilbert Dupuy": {
+    "Nom": "Gilbert Dupuy",
+    "Age": 59.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2015-06-29"
+  },
+  "Andr\u00e9 Laporte": {
+    "Nom": "Andr\u00e9 Laporte",
+    "Age": 25.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2019-03-17"
+  },
+  "Luce Moreno-Lesage": {
+    "Nom": "Luce Moreno-Lesage",
+    "Age": 49.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2022-05-19"
+  },
+  "Franck-Emmanuel Bruneau": {
+    "Nom": "Franck-Emmanuel Bruneau",
+    "Age": 40.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2006-10-06"
+  },
+  "Laurent Besson": {
+    "Nom": "Laurent Besson",
+    "Age": 47.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2006-08-29"
+  },
+  "Adrien Chartier": {
+    "Nom": "Adrien Chartier",
+    "Age": 59.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1982-12-24"
+  },
+  "\u00c9milie Moulin": {
+    "Nom": "\u00c9milie Moulin",
+    "Age": 63.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 la famille",
+    "Date_d_infraction": "2016-05-22"
+  },
+  "Roger Delannoy": {
+    "Nom": "Roger Delannoy",
+    "Age": 74.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1979-06-07"
+  },
+  "Thibaut-Nicolas Rolland": {
+    "Nom": "Thibaut-Nicolas Rolland",
+    "Age": 55.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2012-09-25"
+  },
+  "St\u00e9phane Coste": {
+    "Nom": "St\u00e9phane Coste",
+    "Age": 55.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "1992-09-23"
+  },
+  "Caroline-Michelle Leleu": {
+    "Nom": "Caroline-Michelle Leleu",
+    "Age": 25.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2022-06-06"
+  },
+  "Alex Salmon": {
+    "Nom": "Alex Salmon",
+    "Age": 35.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2013-01-23"
+  },
+  "Benjamin Carlier": {
+    "Nom": "Benjamin Carlier",
+    "Age": 88.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1972-02-16"
+  },
+  "Alfred du Lesage": {
+    "Nom": "Alfred du Lesage",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1974-04-08"
+  },
+  "Augustin Bigot": {
+    "Nom": "Augustin Bigot",
+    "Age": 41.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2017-02-15"
+  },
+  "Patrick Marques": {
+    "Nom": "Patrick Marques",
+    "Age": 58.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2000-10-21"
+  },
+  "Marthe Guillet": {
+    "Nom": "Marthe Guillet",
+    "Age": 54.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2010-10-29"
+  },
+  "Sophie Perez": {
+    "Nom": "Sophie Perez",
+    "Age": 63.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1986-10-28"
+  },
+  "Tristan Dumont": {
+    "Nom": "Tristan Dumont",
+    "Age": 88.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "1968-09-08"
+  },
+  "Martin Louis-Martinez": {
+    "Nom": "Martin Louis-Martinez",
+    "Age": 86.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la personne",
+    "Date_d_infraction": "1964-11-10"
+  },
+  "Laurent Perrot": {
+    "Nom": "Laurent Perrot",
+    "Age": 23.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2022-03-02"
+  },
+  "Raymond Le Millet": {
+    "Nom": "Raymond Le Millet",
+    "Age": 82.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "L\u00e9gislation sur les soci\u00e9t\u00e9s",
+    "Date_d_infraction": "2002-02-28"
+  },
+  "Richard Bernier du Texier": {
+    "Nom": "Richard Bernier du Texier",
+    "Age": 77.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1990-05-04"
+  },
+  "Philippe Hernandez": {
+    "Nom": "Philippe Hernandez",
+    "Age": 47.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "1996-11-15"
+  },
+  "Nathalie Lacombe": {
+    "Nom": "Nathalie Lacombe",
+    "Age": 22.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2019-02-22"
+  },
+  "Th\u00e9r\u00e8se Thomas-Denis": {
+    "Nom": "Th\u00e9r\u00e8se Thomas-Denis",
+    "Age": 78.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la sant\u00e9",
+    "Date_d_infraction": "1997-12-16"
+  },
+  "Bertrand Pruvost": {
+    "Nom": "Bertrand Pruvost",
+    "Age": 80.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1990-03-09"
+  },
+  "William Guyon": {
+    "Nom": "William Guyon",
+    "Age": 25.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2019-12-20"
+  },
+  "Maurice Renault": {
+    "Nom": "Maurice Renault",
+    "Age": 20.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2021-12-26"
+  },
+  "Augustin Jean": {
+    "Nom": "Augustin Jean",
+    "Age": 32.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2017-08-18"
+  },
+  "Doroth\u00e9e Faivre": {
+    "Nom": "Doroth\u00e9e Faivre",
+    "Age": 58.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2007-01-18"
+  },
+  "Mathilde Lema\u00eetre": {
+    "Nom": "Mathilde Lema\u00eetre",
+    "Age": 58.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "1992-12-15"
+  },
+  "J\u00e9r\u00f4me-Robert Lebreton": {
+    "Nom": "J\u00e9r\u00f4me-Robert Lebreton",
+    "Age": 56.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "2004-09-21"
+  },
+  "Christophe Evrard": {
+    "Nom": "Christophe Evrard",
+    "Age": 33.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2015-03-09"
+  },
+  "\u00c9lodie Dumas": {
+    "Nom": "\u00c9lodie Dumas",
+    "Age": 53.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2005-12-02"
+  },
+  "Yves Le Voisin": {
+    "Nom": "Yves Le Voisin",
+    "Age": 63.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1990-05-14"
+  },
+  "Guy Fontaine": {
+    "Nom": "Guy Fontaine",
+    "Age": 72.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2021-05-06"
+  },
+  "Hortense Lemaire": {
+    "Nom": "Hortense Lemaire",
+    "Age": 42.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "2016-09-20"
+  },
+  "Vincent Fournier": {
+    "Nom": "Vincent Fournier",
+    "Age": 71.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1985-02-16"
+  },
+  "Valentine Richard-Bourdon": {
+    "Nom": "Valentine Richard-Bourdon",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1994-07-20"
+  },
+  "Nicolas du Bernard": {
+    "Nom": "Nicolas du Bernard",
+    "Age": 55.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Travail et s\u00e9curit\u00e9 sociale",
+    "Date_d_infraction": "2005-06-11"
+  },
+  "Alexandre Marty": {
+    "Nom": "Alexandre Marty",
+    "Age": 42.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2014-10-17"
+  },
+  "Vincent-Philippe Rossi": {
+    "Nom": "Vincent-Philippe Rossi",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1976-02-13"
+  },
+  "Cl\u00e9mence Lemonnier": {
+    "Nom": "Cl\u00e9mence Lemonnier",
+    "Age": 86.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Transport",
+    "Date_d_infraction": "1971-08-18"
+  },
+  "Henri Rocher": {
+    "Nom": "Henri Rocher",
+    "Age": 47.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1998-09-20"
+  },
+  "Charlotte Perret": {
+    "Nom": "Charlotte Perret",
+    "Age": 51.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2007-04-06"
+  },
+  "\u00c9lodie du Coste": {
+    "Nom": "\u00c9lodie du Coste",
+    "Age": 50.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2020-11-11"
+  },
+  "Denis Dias": {
+    "Nom": "Denis Dias",
+    "Age": 54.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "1989-07-15"
+  },
+  "Laure Da Silva": {
+    "Nom": "Laure Da Silva",
+    "Age": 45.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres infractions \u00e0 la sant\u00e9 publique",
+    "Date_d_infraction": "2018-01-29"
+  },
+  "Philippe-Joseph Ruiz": {
+    "Nom": "Philippe-Joseph Ruiz",
+    "Age": 68.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "2007-10-23"
+  },
+  "Catherine Faivre": {
+    "Nom": "Catherine Faivre",
+    "Age": 25.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2021-09-24"
+  },
+  "Joseph Camus": {
+    "Nom": "Joseph Camus",
+    "Age": 26.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2021-09-02"
+  },
+  "Cl\u00e9mence Bouchet": {
+    "Nom": "Cl\u00e9mence Bouchet",
+    "Age": 51.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Fraudes et contrefa\u00e7ons",
+    "Date_d_infraction": "1992-09-20"
+  },
+  "Ad\u00e8le Labb\u00e9": {
+    "Nom": "Ad\u00e8le Labb\u00e9",
+    "Age": 89.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux finances publiques",
+    "Date_d_infraction": "2002-07-14"
+  },
+  "Nathalie Boyer": {
+    "Nom": "Nathalie Boyer",
+    "Age": 30.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2015-11-03"
+  },
+  "In\u00e8s-Jacqueline Klein": {
+    "Nom": "In\u00e8s-Jacqueline Klein",
+    "Age": 31.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "2017-11-30"
+  },
+  "Christine de Dubois": {
+    "Nom": "Christine de Dubois",
+    "Age": 72.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "2010-08-31"
+  },
+  "Patricia Pelletier": {
+    "Nom": "Patricia Pelletier",
+    "Age": 35.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2011-06-19"
+  },
+  "Caroline Bonneau": {
+    "Nom": "Caroline Bonneau",
+    "Age": 56.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2016-02-22"
+  },
+  "William de la Roche": {
+    "Nom": "William de la Roche",
+    "Age": 24.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2022-09-14"
+  },
+  "Cl\u00e9mence Bertin": {
+    "Nom": "Cl\u00e9mence Bertin",
+    "Age": 68.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'ordre \u00e9conomique",
+    "Date_d_infraction": "1988-03-19"
+  },
+  "Lucy Delannoy": {
+    "Nom": "Lucy Delannoy",
+    "Age": 80.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "1964-01-10"
+  },
+  "Jeannine Faure Le Mathieu": {
+    "Nom": "Jeannine Faure Le Mathieu",
+    "Age": 57.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Commerce et transport d'armes",
+    "Date_d_infraction": "2021-10-16"
+  },
+  "Fran\u00e7ois Morin": {
+    "Nom": "Fran\u00e7ois Morin",
+    "Age": 92.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2019-04-06"
+  },
+  "In\u00e8s Hamon": {
+    "Nom": "In\u00e8s Hamon",
+    "Age": 92.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Ordre administratif et judiciaire",
+    "Date_d_infraction": "1987-11-10"
+  },
+  "Bernadette Guibert de la Gosselin": {
+    "Nom": "Bernadette Guibert de la Gosselin",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1984-04-09"
+  },
+  "Olivier Chevalier": {
+    "Nom": "Olivier Chevalier",
+    "Age": 27.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2016-09-16"
+  },
+  "Anastasie Toussaint": {
+    "Nom": "Anastasie Toussaint",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1987-07-04"
+  },
+  "Olivier Payet Le Voisin": {
+    "Nom": "Olivier Payet Le Voisin",
+    "Age": 66.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2006-01-27"
+  },
+  "Fran\u00e7oise Dumont": {
+    "Nom": "Fran\u00e7oise Dumont",
+    "Age": 54.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2001-10-29"
+  },
+  "Fran\u00e7oise Laine": {
+    "Nom": "Fran\u00e7oise Laine",
+    "Age": 61.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2013-02-22"
+  },
+  "Olivie Pichon": {
+    "Nom": "Olivie Pichon",
+    "Age": 51.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Autres atteintes \u00e0 la s\u00fbret\u00e9 publique",
+    "Date_d_infraction": "2015-09-22"
+  },
+  "Patrick Le Gall-Lebrun": {
+    "Nom": "Patrick Le Gall-Lebrun",
+    "Age": 32.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2011-04-21"
+  },
+  "Robert du Marion": {
+    "Nom": "Robert du Marion",
+    "Age": 85.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2005-07-14"
+  },
+  "Richard du Gosselin": {
+    "Nom": "Richard du Gosselin",
+    "Age": 62.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux biens",
+    "Date_d_infraction": "2012-01-25"
+  },
+  "Nicolas Bailly-Mercier": {
+    "Nom": "Nicolas Bailly-Mercier",
+    "Age": 39.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2006-08-30"
+  },
+  "Thierry Lamy": {
+    "Nom": "Thierry Lamy",
+    "Age": 78.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2012-12-18"
+  },
+  "Benjamin Teixeira": {
+    "Nom": "Benjamin Teixeira",
+    "Age": 26.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2015-03-21"
+  },
+  "Gr\u00e9goire Delmas de Blanchard": {
+    "Nom": "Gr\u00e9goire Delmas de Blanchard",
+    "Age": 71.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1985-05-07"
+  },
+  "Roger Leblanc": {
+    "Nom": "Roger Leblanc",
+    "Age": 81.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2020-11-03"
+  },
+  "Olivier Hoareau de Martineau": {
+    "Nom": "Olivier Hoareau de Martineau",
+    "Age": 23.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Autres atteintes aux personnes",
+    "Date_d_infraction": "2018-01-30"
+  },
+  "Val\u00e9rie Dijoux": {
+    "Nom": "Val\u00e9rie Dijoux",
+    "Age": 27.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "2022-03-19"
+  },
+  "Nathalie Bazin": {
+    "Nom": "Nathalie Bazin",
+    "Age": 52.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2008-01-24"
+  },
+  "\u00c9ric Reynaud": {
+    "Nom": "\u00c9ric Reynaud",
+    "Age": 63.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2018-06-18"
+  },
+  "Martine Cl\u00e9ment": {
+    "Nom": "Martine Cl\u00e9ment",
+    "Age": 42.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Police des \u00e9trangers - nomades",
+    "Date_d_infraction": "2016-05-18"
+  },
+  "Gilbert-Charles Thibault": {
+    "Nom": "Gilbert-Charles Thibault",
+    "Age": 45.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1998-11-13"
+  },
+  "Gilbert Martineau": {
+    "Nom": "Gilbert Martineau",
+    "Age": 34.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "2014-05-09"
+  },
+  "Hugues Giraud": {
+    "Nom": "Hugues Giraud",
+    "Age": 32.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Destructions - d\u00e9gradations",
+    "Date_d_infraction": "2011-03-30"
+  },
+  "No\u00ebl Blondel-Meunier": {
+    "Nom": "No\u00ebl Blondel-Meunier",
+    "Age": 21.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "2020-11-30"
+  },
+  "Margot Renaud de Lacombe": {
+    "Nom": "Margot Renaud de Lacombe",
+    "Age": 33.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2009-01-06"
+  },
+  "Constance Wagner": {
+    "Nom": "Constance Wagner",
+    "Age": 85.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1998-04-12"
+  },
+  "\u00c9l\u00e9onore Le Roux": {
+    "Nom": "\u00c9l\u00e9onore Le Roux",
+    "Age": 33.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2021-02-19"
+  },
+  "Benjamin de la Alexandre": {
+    "Nom": "Benjamin de la Alexandre",
+    "Age": 53.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1992-12-18"
+  },
+  "Fran\u00e7ois Devaux": {
+    "Nom": "Fran\u00e7ois Devaux",
+    "Age": 88.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Atteintes aux moeurs",
+    "Date_d_infraction": "1999-12-10"
+  },
+  "Jean Toussaint de la Devaux": {
+    "Nom": "Jean Toussaint de la Devaux",
+    "Age": 57.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "1987-03-11"
+  },
+  "Suzanne Dupr\u00e9 Le Picard": {
+    "Nom": "Suzanne Dupr\u00e9 Le Picard",
+    "Age": 67.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "1989-05-02"
+  },
+  "R\u00e9my Vall\u00e9e": {
+    "Nom": "R\u00e9my Vall\u00e9e",
+    "Age": 54.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1987-10-29"
+  },
+  "Augustin Benard": {
+    "Nom": "Augustin Benard",
+    "Age": 32.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2017-02-20"
+  },
+  "\u00c9tienne Duval": {
+    "Nom": "\u00c9tienne Duval",
+    "Age": 73.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "1977-03-10"
+  },
+  "Bertrand Launay": {
+    "Nom": "Bertrand Launay",
+    "Age": 90.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Infractions en mati\u00e8re de transport",
+    "Date_d_infraction": "2013-08-24"
+  },
+  "Isabelle Rossi": {
+    "Nom": "Isabelle Rossi",
+    "Age": 22.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Circulation routi\u00e8re",
+    "Date_d_infraction": "2021-07-18"
+  },
+  "Christine Labb\u00e9-Bonnet": {
+    "Nom": "Christine Labb\u00e9-Bonnet",
+    "Age": 61.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Vols - recels",
+    "Date_d_infraction": "2006-04-05"
+  },
+  "Josette Guillon-Leclercq": {
+    "Nom": "Josette Guillon-Leclercq",
+    "Age": 38.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Vols, recels, destructions",
+    "Date_d_infraction": "2015-06-02"
+  },
+  "Henriette Cousin": {
+    "Nom": "Henriette Cousin",
+    "Age": 44.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Homicides involontaires",
+    "Date_d_infraction": "2001-01-03"
+  },
+  "Paulette Dias": {
+    "Nom": "Paulette Dias",
+    "Age": 31.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2010-01-31"
+  },
+  "Susan de Fontaine": {
+    "Nom": "Susan de Fontaine",
+    "Age": 82.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2019-05-26"
+  },
+  "Fran\u00e7oise Le Hoarau": {
+    "Nom": "Fran\u00e7oise Le Hoarau",
+    "Age": 65.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Atteintes \u00e0 l'environnement",
+    "Date_d_infraction": "1998-02-08"
+  },
+  "Antoine Leroux": {
+    "Nom": "Antoine Leroux",
+    "Age": 37.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Atteintes a la surete publique",
+    "Date_d_infraction": "2021-06-07"
+  },
+  "Lorraine Guillou de Bertin": {
+    "Nom": "Lorraine Guillou de Bertin",
+    "Age": 67.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Homicides volontaires",
+    "Date_d_infraction": "2010-07-01"
+  },
+  "Susanne Marques": {
+    "Nom": "Susanne Marques",
+    "Age": 34.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "2010-03-22"
+  },
+  "Jean Benard": {
+    "Nom": "Jean Benard",
+    "Age": 88.0,
+    "Type_d_infraction": "Contraventions",
+    "Infraction": "Blessures involontaires",
+    "Date_d_infraction": "2015-08-27"
+  },
+  "Joseph Dumont-Maurice": {
+    "Nom": "Joseph Dumont-Maurice",
+    "Age": 56.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "2000-07-07"
+  },
+  "Hortense Gu\u00e9rin": {
+    "Nom": "Hortense Gu\u00e9rin",
+    "Age": 88.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Ch\u00e8ques",
+    "Date_d_infraction": "1991-05-17"
+  },
+  "Antoine de la Mercier": {
+    "Nom": "Antoine de la Mercier",
+    "Age": 65.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions militaires",
+    "Date_d_infraction": "2002-02-22"
+  },
+  "Am\u00e9lie Potier de Briand": {
+    "Nom": "Am\u00e9lie Potier de Briand",
+    "Age": 86.0,
+    "Type_d_infraction": "Crimes",
+    "Infraction": "Coups et violences volontaires",
+    "Date_d_infraction": "1987-01-23"
+  },
+  "Aur\u00e9lie No\u00ebl": {
+    "Nom": "Aur\u00e9lie No\u00ebl",
+    "Age": 40.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Infractions sur les stup\u00e9fiants",
+    "Date_d_infraction": "2022-04-30"
+  },
+  "Raymond Le Roux-Faivre": {
+    "Nom": "Raymond Le Roux-Faivre",
+    "Age": 68.0,
+    "Type_d_infraction": "D\u00e9lits",
+    "Infraction": "Faux en \u00e9criture publique ou priv\u00e9e",
+    "Date_d_infraction": "1996-04-03"
+  }
+}

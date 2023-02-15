@@ -1,5 +1,28 @@
 from pyspark.sql.functions import substring, when, col
 
+def from_table_to_dataFrame(spark, database_url, table_name):
+    df = (spark
+          .read
+          .format('jdbc')
+          .option('url', db_url)
+          .option('dbtable', table_name)
+          .option('user', user)
+          .option('password', password)
+          .option('driver', 'org.postgresql.Driver'))
+    return df
+
+def from_dataFrame_to_table(spark, database_url, table_name):
+    df = (spark
+          .read
+          .format('jdbc')
+          .option('url', db_url)
+          .option('dbtable', table_name)
+          .option('user', user)
+          .option('password', password)
+          .option('driver', 'org.postgresql.Driver'))
+    return df
+
+
 def get_diff(date_1, date_2):
     year1, month1 = list(map(int, date_1.split('-')))
     year2, month2 = list(map(int, date_2.split('-')))
@@ -7,20 +30,20 @@ def get_diff(date_1, date_2):
 
 def get_odds(name, df, groupby, start_date, end_date, threshold=10):
     date_col = [col for col in df.columns if 'date' in col.lower()][0]
-    df_with_month = df.withColumn("month", substring(date_col, 1, 7))
-    df_new = (df_with_month.filter((df_with_month["month"] >= start_date)
-                                   & (df_with_month["month"] <= end_date)))
-    df_counts = df_new.groupBy(groupby, "month").count()
-    df_counts = df_counts.withColumn(name+"_odd",
-                                     when(df_counts["count"] <= threshold, 0)
+    df_with_month = df.withColumn('month', substring(date_col, 1, 7))
+    df_new = (df_with_month.filter((df_with_month['month'] >= start_date)
+                                   & (df_with_month['month'] <= end_date)))
+    df_counts = df_new.groupBy(groupby, 'month').count()
+    df_counts = df_counts.withColumn(name+'_odd',
+                                     when(df_counts['count'] <= threshold, 0)
                                      .otherwise(1))
-    df_counts = df_counts.drop("count")
+    df_counts = df_counts.drop('count')
     combdf = (df_counts
               .groupBy(groupby)
               .sum()
-              .withColumnRenamed(f"sum({name}_odd)", "sum_odds"))
+              .withColumnRenamed(f"sum({name}_odd)", 'sum_odds'))
     combdf = combdf.withColumn("ratio", col("sum_odds")/get_diff(start_date, end_date))
-    combdf = combdf.withColumn("level",
+    combdf = combdf.withColumn('level',
                                when((combdf["ratio"] >= 0) & (combdf["ratio"] <= 0.3), 'low')
                                .when((combdf["ratio"] > 0.3) & (combdf["ratio"] <= 0.6), 'medium')
                                .when((combdf["ratio"] > 0.6), 'high'))

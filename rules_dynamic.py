@@ -5,17 +5,20 @@ from pyspark.ml.classification import RandomForestClassifier
 from pyspark.ml.evaluation import BinaryClassificationEvaluator
 from pyspark.ml.tuning import ParamGridBuilder
 from pyspark.ml.tuning import CrossValidator
+import mlflow
+import mlflow.spark
+import pandas as pd
 
 # Init spark
 spark = (SparkSession
          .builder
-         .appName("Supervised model")
+         .appName('Random Forest model')
          .getOrCreate())
 
 # Load data
 offencesDF = (spark
               .read
-              .load("local_data/convictions.csv", format='csv', inferSchema="true", header="true")
+              .load('data/convictions.csv', format='csv', inferSchema='true', header='true')
               .select('Age', 'is_sentenced'))
 
 # Split data
@@ -28,35 +31,26 @@ vecAssembler = VectorAssembler(inputCols=['Age'],
 # Modeling step
 rf = RandomForestClassifier(labelCol='is_sentenced', featuresCol='features')
 pipeline = Pipeline(stages = [vecAssembler, rf])
-pipelineModel = pipeline.fit(trainDF)
 
-# Testing the model
-predictions = pipelineModel.transform(testDF)
+mlflow.start_run(run_name='random-forest')
+# Log params
+mlflow.log_param("num_trees", rf.getNumTrees())
+mlflow.log_param("max_depth", rf.getMaxDepth())
+# Log model
+pipelineModel = pipeline.fit(trainDF)
+mlflow.spark.log_model(pipelineModel, 'model')
+# Log metrics
+predDF = pipelineModel.transform(testDF)
 evaluator = BinaryClassificationEvaluator(
-    rawPredictionCol ="rawPrediction",
+    rawPredictionCol="rawPrediction",
     labelCol="is_sentenced"
 )
-
-print(f"Baseline model performance: {evaluator.evaluate(predictions)}")
-
-# Hyperparameter tuning
-paramGrid = (ParamGridBuilder()
-             .addGrid(rf.numTrees, [2, 5, 8, 10])
-             .addGrid(rf.maxDepth, [2, 3, 4, 5])
-             .build())
-
-cv = CrossValidator(estimator=rf,
-                    evaluator=evaluator,
-                    estimatorParamMaps=paramGrid,
-                    numFolds=4,
-                    seed=42)
-
-newPipeline = Pipeline(stages = [vecAssembler, cv])
-newPipelineModel = newPipeline.fit(trainDF)
-
-newPredictions = newPipelineModel.transform(testDF)
-print(f"Tuned model performance: {evaluator.evaluate(newPredictions)}")
-
-
-pipelinePath = "./rf-pipeline-model"
-newPipelineModel.write().overwrite().save(pipelinePath)
+mlflow.log_metrics({'performance_metric': evaluator.evaluate(predDF)})
+#Log artifact: features importance scores
+rfModel = pipelineModel.stages[-1]
+pandasDF = (pd.DataFrame(list(zip(vecAssembler.getInputCols(),
+                                  rfModel.featureImportances)),
+                         columns=['feature', 'importance'])
+            .sort_values(by='importance', ascending=False))
+pandasDF.to_csv('feature-importance.csv', index=False)
+mlflow.log_artifact('feature-importance.csv')
