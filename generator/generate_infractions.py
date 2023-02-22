@@ -4,7 +4,7 @@ import random
 from datetime import datetime, date
 import pandas as pd
 
-def infractions_from_file(filename):
+def infractions_from_file(filename: str) -> dict:
     infractions_dict = {}
     content_l = open(filename).read().lower().split('\n')
     content_l = list(map(lambda x: x.capitalize(), content_l))
@@ -15,14 +15,14 @@ def infractions_from_file(filename):
     infractions_dict = {'Crimes': crime_l, 'Délits': delit_l, 'Contraventions': contra_l}
     return infractions_dict
 
-def select_infraction(infractions_dict):
+def select_infraction(infractions_dict: str) -> list:
     infrac_types = tuple(infractions_dict.keys())
     infrac_type = random.choice(infrac_types)
     infracs = infractions_dict.get(infrac_type)
     infrac = random.choice(infracs)
     return [infrac_type, infrac]
 
-def generate_someone_records(name, age, infractions_dict):
+def generate_someone_records(name: str, age: int, infractions_dict: dict) -> pd.DataFrame:
     fake = Faker(locale='fr_FR')
     nbr, i = 0, 0
     names, ages, infractionst, infractions, infraction_dates = [], [], [], [], []
@@ -49,7 +49,7 @@ def generate_someone_records(name, age, infractions_dict):
                        'Infraction': infractions, 'Date_d_infraction': infraction_dates})
     return df
 
-def generate_infractions():
+def generate_infractions() -> pd.DataFrame:
     infractions_dict = infractions_from_file('crimes.txt')
     df_identities = pd.read_csv('../data/identities.csv')
     shorter = lambda x: 2022 - int(x[:4])
@@ -64,7 +64,7 @@ def generate_infractions():
                 df = pd.concat([df, df_one])
     return df
 
-def convert_to_json(csv_file):
+def convert_to_json(csv_file: str):
     df = pd.read_csv(csv_file)
     df['Nom2'] = df['Nom'].copy()
     result = df.set_index('Nom2').T.to_dict()

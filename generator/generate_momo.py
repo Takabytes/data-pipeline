@@ -4,7 +4,7 @@ import pandas as pd
 import random
 import os
 
-def get_good_df():
+def get_good_df() -> pd.DataFrame:
     df = pd.read_csv('../data/identities.csv')
     df = df[df['Numéro_de_téléphone'] != None]
     mtn = ['50', '51', '52', '53', '54', '56', '57', '59'
@@ -17,7 +17,7 @@ def get_good_df():
     df = df.drop(columns=['indicator'])
     return df
 
-def create_proportion(df):
+def create_proportion(df: pd.DataFrame) -> pd.DataFrame:
     assert len(df) == 100
     ndf = df.sample(frac=1).reset_index(drop=True)
     ltail, mid, rtail = ndf[:30].copy(), ndf[30:50].copy(), ndf[50:].copy()
@@ -27,7 +27,7 @@ def create_proportion(df):
     new_df = pd.concat([ltail, mid, rtail])
     return new_df
 
-def generate_momo(df, operator):
+def generate_momo(df: pd.DataFrame, operator: str) -> pd.DataFrame:
     fake = Faker(locale='fr_FR')
     new_sample = df.sample(n=100, random_state=1)
     transac_type = ['CASH_IN', 'CASH_OUT', 'TRANSFER']

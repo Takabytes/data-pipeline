@@ -3,7 +3,7 @@ import random
 import pandas as pd
 from datetime import date, datetime
 
-def generate_phone_number():
+def generate_phone_number() -> str:
     operators = ['mtn', 'moov']
     mtn = ['50', '51', '52', '53', '54', '56', '57', '59'
            , '61', '62', '66', '67', '69', '90', '91', '96', '97']
@@ -19,23 +19,23 @@ def generate_phone_number():
     num = num + arr
     return num
 
-def generate_square_number():
+def generate_square_number() -> str:
     l = [random.randint(0, 9) for i in range(1, 5)]
     arr = ''.join(str(elem) for elem in l)
     arr = ' carré ' + arr
     return arr
 
-def generate_address(lines):
+def generate_address(lines) -> str:
     return random.choice(lines) + generate_square_number()
 
-def generate_identities(nsamples=1000):
+def generate_identities(nsamples=1000) -> pd.DataFrame:
     fake = Faker(locale='fr_FR')
     lines = open('adresses.csv').read().splitlines()
     df = pd.DataFrame()
     df['Nom'] = [fake.unique.name() for i in range(nsamples)]
     df['Date_de_naissance'] = [fake.date_between_dates(date_start=datetime(1930,1,1), date_end=datetime(2022,12,31))
                                for i in range(nsamples)]
-    df['Genre'] = df['Nom'].apply(lambda x: 'Féminin' if x[-1] in 'aeiou' else 'Masculin')
+    df['Sexe'] = df['Nom'].apply(lambda x: 'Féminin' if x[-1] in 'aeiou' else 'Masculin')
     df['Adresse'] = [generate_address(lines).replace('\n', ', ')
                      for i in range(nsamples)]
     df['E-mail'] = df['Nom'].apply(lambda x: x.lower().replace(' ', '') + '@gmail.com')

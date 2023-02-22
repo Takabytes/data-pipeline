@@ -1,3 +1,4 @@
-pyspark==3.3.1
+pyspark==3.3.2
 apache-airflow==2.5.1
 mlflow==2.1.1
+pandas==1.5.3

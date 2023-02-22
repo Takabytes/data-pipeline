@@ -3,7 +3,7 @@ import pandas as pd
 import random
 from datetime import datetime
 
-def generate_someone_moves(name, n):
+def generate_someone_moves(name: str, n: int) -> pd.DataFrame:
     i = 0
     fake = Faker(locale="fr_FR")
     frontieres = ['Burkina-Faso', 'Nigéria', 'Niger', 'Togo', 'Aéroport de Cotonou']
@@ -37,7 +37,7 @@ def generate_someone_moves(name, n):
                        'Destination': dests, 'Date': dates})
     return df
 
-def generate_moves():
+def generate_moves() -> pd.DataFrame:
     df_identities = pd.read_csv('../data/identities.csv')
     shorter = lambda x: 2022 - int(x[:4])
     df_identities['Age'] = df_identities['Date_de_naissance'].apply(shorter)

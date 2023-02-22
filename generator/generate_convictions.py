@@ -1,7 +1,7 @@
 from datetime import datetime
 import pandas as pd
 
-def get_age(date: str):
+def get_age(date: str) -> int:
     birth = datetime.strptime(date.replace('-', '/'), '%Y/%m/%d').date()
     current = datetime.strptime("2023/02/03", '%Y/%m/%d').date()
     age = current.year - birth.year
@@ -9,7 +9,7 @@ def get_age(date: str):
         age -= 1
     return age
 
-def generate_convictions():
+def generate_convictions() -> pd.DataFrame:
     df_identities = pd.read_csv('../data/identities.csv')
     df_infractions = pd.read_json('../data/infractions.json')
     df_infractions = df_infractions.T.reset_index(drop=True)
